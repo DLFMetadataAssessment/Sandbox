@@ -1,9 +1,9 @@
 #DLF-AIG Metadata Assessment Working Group
 
 
-**This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/
+**This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/ **
 
-We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.**
+**We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.**
 
 ## Intro
 
