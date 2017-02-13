@@ -21,5 +21,8 @@ exclude: [
 .gitignore,
 README.md,
 .sass-cache,
-config.ru
+config.ru,
+vendor,
+Gemfile,
+Gemfile.lock
 ]
