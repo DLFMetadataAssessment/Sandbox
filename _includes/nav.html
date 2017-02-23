@@ -1,28 +1,27 @@
 <ul id="nav">
-    {% assign level-1 = site.entries | where: "sectionclass", "h1" | sort: "number"%}
-    {% for entry in level-1 %}
-    <li {% if entry.is-parent or forloop.first %} class="{% if entry.is-parent %}parent{% endif %}{% if forloop.first %} current{% endif %}"{% endif %}>
-        <a href="#{{ entry.sectionid }}">{{ entry.title }}</a>
-        {% if entry.is-parent %}
-            <ul>
-                {% assign level-2 = site.entries | where: "parent-id", entry.sectionid | sort: "number" %}
-                {% for child in level-2 %}
-                    <li {% if child.is-parent %}class="parent"{% endif %}>
-                        <a href="#{{ child.sectionid }}">{{ child.title }}</a>
-                        {% if child.is-parent %}
-                            <ul>
-                                {% assign level-3 = site.entries | where: "parent-id", child.sectionid | sort: "number" %}
-                                {% for grandchild in level-3 %}
-                                <li>
-                                    <a href="#{{ grandchild.sectionid }}">{{ grandchild.title }}</a>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                        {% endif %}
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
-    </li>
-    {% endfor %}
+  <li><a href="/">DLF AIG Metadata Working Group Toolkit</a></li>
+  <li><a href="about">About &amp; Contact</a></li>
+  <li><a href="take-part">Participate</a></li>
+  <li><a href="why">Importance of Metadata Assessment</a></li>
+  <li><a href="review">Environmental Scan</a>
+      <ul>
+          <li><a href="review#review-orgs">Organizations &amp; Groups</a></li>
+          <li><a href="review#review-pres">Presentations</a></li>
+          <li><a href="review#review-pubs">Publications</a></li>
+          <li><a href="review#review-tools">Tools</a></li>
+          <li><a href="review#citations">Citations</a></li>
+      </ul>
+  </li>
+  <li><a href="framework">Metadata Assessment Framework</a>
+      <ul>
+          <li><a href="framework#framework-metrics">Metrics</a></li>
+          <li><a href="framework#framework-usecases">Use Cases</a></li>
+          <li><a href="framework#framework-checklist">Checklist</a></li>
+      </ul>
+  </li>
+  <li><a href="tools">Tools for Metadata Assessment</a></li>
+  <li><a href="profiles">Metadata Profiles &amp; Mappings Clearinghouse</a></li>
+  <li><a href="resources">Glossary &amp; Resources</a></li>
+  <li><a href="collaborations">Collaborations</a></li>
+  <li><a href="contributors">Contributors</a></li>
 </ul>

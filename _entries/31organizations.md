@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: review-orgs
+sectionid: review
 parent-id: review
 is-parent: yes
 number: 31

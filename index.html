@@ -1,24 +1,20 @@
 ---
-layout: index
-title: index
+layout: default
+title: home
 ---
 
-{% assign entries = site.entries | sort: "number" %}
-{% for entry in entries %}
-    {% if entry.title != 'index'%}
-        <section id="{{ entry.sectionid }}" class="{{ entry.sectionclass }}">
-            {% case entry.sectionclass %}
-                {% when 'h1' %}
-                    <h1>{{ entry.title }}</h1>
-                {% when 'h2' %}
-                    <h2>{{ entry.title }}</h2>
-                {% when 'h3' %}
-                    <h3>{{ entry.title }}</h3>
-                {% when 'h4' %}
-                    <h4>{{ entry.title }}</h4>
-            {% endcase %}
+<section class="home">
+    <h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
+    <div type="content">
+    <p><em>DRAFT</em></p>
 
-            {{ entry.content }}
-        </section>
-    {% endif %}
-{% endfor %}
+    <p>1home.md: Introduction, Scoping, Overview (2016-2017)</p>
+
+    <ul>
+        <li>Quality versus Assessment</li>
+        <li>Procedure for public feedback + updates</li>
+        <li>Areas of past, current & proposed work</li>
+        <li>Overview of sections of website/toolkit</li>
+    </ul>
+    </div>
+</section>
