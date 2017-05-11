@@ -1,27 +1,25 @@
 <ul id="nav">
   <li><a href="/">DLF AIG Metadata Working Group Toolkit</a></li>
-  <li><a href="about.html">About &amp; Contact</a></li>
-  <li><a href="take-part.html">Participate</a></li>
-  <li><a href="why.html">Importance of Metadata Assessment</a></li>
-  <li><a href="review.html">Environmental Scan</a>
+  <li><a href="/about.html">About &amp; Contact</a></li>
+  <li><a href="/take-part.html">Participate</a></li>
+  <li><a href="/why.html">Importance of Metadata Assessment</a></li>
+  <li><a href="/review.html">Environmental Scan</a>
+  {% for reviews in site.review %}
       <ul>
-          <li><a href="review.html#review-orgs">Organizations &amp; Groups</a></li>
-          <li><a href="review.html#review-pres">Presentations</a></li>
-          <li><a href="review.html#review-pubs">Publications</a></li>
-          <li><a href="review.html#review-tools">Tools</a></li>
-          <li><a href="review.html#citations">Citations</a></li>
+          <li><a href="{{ reviews.url | prepend: site.baseurl }}">{{ reviews.title }}</a></li>
+      </ul>
+  {% endfor %}
+  </li>
+  <li><a href="/framework">Metadata Assessment Framework</a>
+      <ul>
+          <li><a href="/framework.html#framework-metrics">Metrics</a></li>
+          <li><a href="/framework.html#framework-usecases">Use Cases</a></li>
+          <li><a href="/framework.html#framework-checklist">Checklist</a></li>
       </ul>
   </li>
-  <li><a href="framework">Metadata Assessment Framework</a>
-      <ul>
-          <li><a href="framework.html#framework-metrics">Metrics</a></li>
-          <li><a href="framework.html#framework-usecases">Use Cases</a></li>
-          <li><a href="framework.html#framework-checklist">Checklist</a></li>
-      </ul>
-  </li>
-  <li><a href="tools.html">Tools for Metadata Assessment</a></li>
-  <li><a href="profiles.html">Metadata Profiles &amp; Mappings Clearinghouse</a></li>
-  <li><a href="resources.html">Glossary &amp; Resources</a></li>
-  <li><a href="collaborations.html">Collaborations</a></li>
-  <li><a href="contributors.html">Contributors</a></li>
+  <li><a href="/tools.html">Tools for Metadata Assessment</a></li>
+  <li><a href="/profiles.html">Metadata Profiles &amp; Mappings Clearinghouse</a></li>
+  <li><a href="/resources.html">Glossary &amp; Resources</a></li>
+  <li><a href="/collaborations.html">Collaborations</a></li>
+  <li><a href="/contributors.html">Contributors</a></li>
 </ul>
