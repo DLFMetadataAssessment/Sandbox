@@ -4,11 +4,13 @@
   <li><a href="/take-part.html">Participate</a></li>
   <li><a href="/why.html">Importance of Metadata Assessment</a></li>
   <li><a href="/review.html">Environmental Scan</a>
-  {% for reviews in site.review %}
       <ul>
-          <li><a href="{{ reviews.url | prepend: site.baseurl }}">{{ reviews.title }}</a></li>
+		<li><a href="review.html#review-orgs">Organizations &amp; Groups</a></li>
+		<li><a href="review.html#review-pres">Presentations</a></li>
+		<li><a href="review.html#review-pubs">Publications</a></li>
+		<li><a href="review.html#review-tools">Tools</a></li>
+		<li><a href="review.html#citations">Citations</a></li>
       </ul>
-  {% endfor %}
   </li>
   <li><a href="/framework">Metadata Assessment Framework</a>
       <ul>

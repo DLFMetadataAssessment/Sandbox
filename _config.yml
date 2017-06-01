@@ -3,20 +3,16 @@ name: DLF Metadata Assessment Working Group
 author: DLF AIG Metadata Working Group
 version: V 1.0
 encoding: utf-8
-baseurl: ""
 defaults:
-  - scope:
-      type: review
+  -
     values:
-      layout: page
+      layout: "default"
 markdown: kramdown
 kramdown:
   input: GFM
 relative_permalinks: false
 collections:
-  review:
-    output: true
-    permalink: /review/:path/
+- entries
 sass:
   sass_dir: _sass
   style: :compressed
