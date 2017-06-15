@@ -46,6 +46,10 @@ Once you have committed your changes to your branch for a particular issue, subm
 
 If your pull request sits for a while, you can submit an email to the [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group) asking for it to be reviewed.
 
+**Deployment to Heroku**
+
+This repository has been set up to automatically deploy any new changes done to the master branch to our [Heroku sandbox site](https://dlfaigmwgdev.herokuapp.com/) using [Heroku's GitHub integration feature](https://blog.heroku.com/heroku_github_integration). After changes have been merged to the master branch, it is recommended that you check the Heroku site to make sure the changes are reflected there. If you notice any problems, please create a new issue.
+
 ### About GitHub
 
 If you're new to GitHub, we recommend an [introduction to the GitHub flow](https://guides.github.com/introduction/flow/) and [simple steps for getting started in GitHub](https://guides.github.com/activities/hello-world/).
