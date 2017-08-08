@@ -1,0 +1,3 @@
+[submodule "EnvironmentalScan"]
+	path = EnvironmentalScan
+	url = git@github.com:DLFMetadataAssessment/EnvironmentalScan.git
