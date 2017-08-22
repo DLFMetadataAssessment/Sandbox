@@ -98,5 +98,11 @@ In a terminal:
 * ```heroku login```
 3. Add a remote connection to Heroku's git server
 ```git remote add heroku https://git.heroku.com/dlfaigmwgdev.git```
-4. Push the current branch to Heroku 
-```git push heroku issue#20```
+4. Push the current branch to the Heroku master branch
+```git push heroku issue#20:master```
+* Note: Heroku will only deploy from the master branch in this way. The only way Heroku will correctly deploy submodules (Environmental Scan, Clearinghouse, etc) is when the Heroku cli is used to push to the Heroku master branch.
+5. Check out the app on Heroku at [https://dlfaigmwgdev.herokuapp.com/](https://dlfaigmwgdev.herokuapp.com/)
+6. If everything looks ok, push the branch to an issue branch on Github
+```git remote -v
+git push --set-upstream origin issue#xx```
+7. Create a pull request for the new branch
