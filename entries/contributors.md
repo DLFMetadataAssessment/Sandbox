@@ -1,10 +1,43 @@
 ---
-sectionclass: h1
-sectionid: contributors
-is-parent: yes
-title: 2016 Contributors
-number: 37
+layout: default
+title: contributors
 ---
+{::options parse_block_html="true" /}
+
+<h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
+<h2>Contributors</h2>
+<h3>2017</h3>
+
+- - --  Laura Akerman
+- - --  Shaun Akhtar
+- - --  Damian Biagi
+- - --  Scott Carlson
+- - --  Maggie Dickson
+- - --  Kate Flynn
+- - --  Paloma Graciani
+- - --  Kathryn Gronsbell
+- - --  Gretchen Gueguen
+- - --  Julie Hardesty
+- - --  Christina Harlow
+- - --  Bill McMillin
+- - --  Darnelle Melvin
+- - --  Ryan Mendenhall
+- - --  Amelia Mowry
+- - --  Anna Neatrour
+- - --  Joy P.
+- - --  Suzanne Pilsk
+- - --  Susan Ponischil
+- - --  Sara Rubinow
+- - --  Bethany Scott
+- - --  Jeanette Sewell
+- - --  Jacob Shelby
+- - --  Laura Smart
+- - --  Ayla Stein
+- - --  Hannah Stitzlein
+- - --  Hannah Tarver
+- - --  Becky Wolsk
+
+<h3>2016</h3>
 
 - - --  Janet Ahrberg
 - - --  Shaun Akhtar
