@@ -40,10 +40,10 @@
     }
     ul {
         list-style: none;
-        counter-reset: nested-counter;
+/* Commenting out header numbering       counter-reset: nested-counter; */
         padding-left: 0;
         li {
-            counter-increment: nested-counter;
+/*  Commenting out header numbering           counter-increment: nested-counter; */
             font-size: 98%;
         }
     }
@@ -58,7 +58,7 @@
                 line-height: 1;
                 border-bottom: 1px solid rgba($blue, .2);
                 &:before {
-                    content: counters(nested-counter, ".") " ";
+/*  Commenting out header numbering content: counters(nested-counter, ".") " "; */
                     font-size: 0;
                 }
                 &:hover {
