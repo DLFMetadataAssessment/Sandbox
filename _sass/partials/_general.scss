@@ -22,7 +22,7 @@ body{
 }
 
 .content{
-    counter-reset: h1-counter;
+/* Commenting out header numbering  counter-reset: h1-counter; */
     width: calc(100% - 320px);
     position: absolute;
     right: 0;
