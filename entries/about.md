@@ -4,11 +4,10 @@ title: about
 ---
 {::options parse_block_html="true" /}
 
-<section class="home">
 <h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
 <div type="content">
 <h2>About</h2>
-  <p><em>DRAFT</em></p>
+
    <p>Welcome to the Metadata Assessment Toolkit, a project of the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group.</p>
 
    <p>The DLF AIG Metadata Working Group collaboratively builds guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. We want to support discussions on what metadata assessment means, sharing of our efforts and approaches, how we perform metadata analysis, and why metadata assessment is important.</p>
@@ -37,6 +36,12 @@ title: about
 
    <p>The work areas of the 2017 DLF Metadata Assessment Working Group are:</p>
 
-     - - [insert Work Areas below as approved by group]
+- - --  Update structure of the Github site created for last year’s Environmental Scan to support expansion and ongoing work.
+- - --  Create mechanism for people to submit updates & feedback.
+- - --  Review and expand list of metadata assessment tools gathered as part of the Environmental Scan. 
+- - --  Begin testing tools gathered as part of the Environmental Scan in order to eventually create a repository for metadata assessment tools.
+- - --  A Metadata Application Profile Clearinghouse that can be used as a community repository for application profiles, mappings and guidelines for metadata.
+- - --  Create a general framework document on how to assess metadata that can be used for the glam community.
+- - --  Collaborate with other institutions on metadata assessment and analysis workshop work.
+
 </div>
-</section>
