@@ -1,25 +1,20 @@
 ---
-layout: default
+layout: page
 title: home
 ---
 
 {::options parse_block_html="true" /}
-<section class="home">
    <h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
-   <div type="content">    
-   <p><em>DRAFT</em></p>
 
-   <p>This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. The Sandbox deploys to https://dlfaigmwgdev.herokuapp.com/ for viewing.</p>    
-   <p>See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/</p>
-   <p>We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.</p>
-
-   <p>1home.md: Introduction, Scoping, Overview (2016-2017)</p>
-
-   <ul>
-   <li>Quality versus Assessment</li>
-   <li>Procedure for public feedback + updates</li>
-   <li>Areas of past, current & proposed work</li>
-   <li>Overview of sections of website/toolkit</li>
-   </ul>
-   </div>
-</section>
+   <p>This is the website for the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group, also known as the DLF Metadata Assessment Working Group.</p>    
+   <p>This site contains information about a number of projects this group has undertaken including:</p>
+- - --<a href="https://dlfmetadataassessment.github.io/EnvironmentalScan">the Environmental Scan undertaken during 2016</a>
+- - --<a href="https://dlfmetadataassessment.github.io/Framework">A level framework for assessing descriptive metadata in digital collections</a>
+- - --<a href="https://dlfmetadataassessment.github.io/Tools">The ongoing work to build a repository of metadata assessment tools</a>
+- - --<a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse">A colleciton of application profiles, mappsings and practices</a>
+<br/>
+<p>You can also:</p>
+- - --<a href="/entries/about.html">Find out more about this group</a>
+- - --<a href="/entries/take-part.html">Find out more about how to take part</a>
+- - --<a href="/entries/collaborations.html">Find out about the collaborations we've taken part in</a>
+- - --<a href="/entries/contributors.html">Find out the people who have made this site possible</a>
