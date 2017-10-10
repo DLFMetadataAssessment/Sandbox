@@ -1,9 +1,0 @@
-[submodule "EnvironmentalScan"]
-	path = EnvironmentalScan
-	url = https://github.com/DLFMetadataAssessment/EnvironmentalScan.git
-[submodule "MetadataSpecsClearinghouse"]
-	path = MetadataSpecsClearinghouse
-	url = https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse.git
-[submodule "Framework"]
-	path = Framework
-	url = https://github.com/DLFMetadataAssessment/Framework.git
