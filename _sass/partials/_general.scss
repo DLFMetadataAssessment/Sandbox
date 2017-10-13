@@ -201,3 +201,8 @@ iframe{
 p + p{
     margin-top: 20px;
 }
+
+h1:before, h2:before, h3:before, h4:before, a:before {
+	content: '';
+	content: none;
+}
