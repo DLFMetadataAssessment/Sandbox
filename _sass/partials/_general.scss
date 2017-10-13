@@ -22,7 +22,7 @@ body{
 }
 
 .content{
-/* Commenting out header numbering  counter-reset: h1-counter; */
+    counter-reset: h1-counter;
     width: calc(100% - 320px);
     position: absolute;
     right: 0;
@@ -200,9 +200,4 @@ iframe{
 
 p + p{
     margin-top: 20px;
-}
-
-h1:before, h2:before, h3:before, h4:before, a:before {
-	content: '';
-	content: none;
 }

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: home
+sectionclass: h1
 ---
 
 {::options parse_block_html="true" /}
