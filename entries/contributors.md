@@ -8,7 +8,7 @@ title: contributors
 <h2>Contributors</h2>
 <h3>2017</h3>
 
-This list of contributors was created based on the lists of people who attendee either the regular Metadata Working Group meeting or any of the subgroup meetings.
+This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
 
 - - --  Laura Akerman
 - - --  Shaun Akhtar
