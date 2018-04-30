@@ -14,6 +14,9 @@ sectionclass: h1
 - - --<a href="https://dlfmetadataassessment.github.io/Tools">The ongoing work to build a repository of metadata assessment tools</a>
 - - --<a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse">A collection of application profiles, mappings and practices</a>
 <br/>
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
 <p>You can also:</p>
 - - --<a href="/entries/about.html">Find out more about this group</a>
 - - --<a href="/entries/take-part.html">Find out more about how to take part</a>
