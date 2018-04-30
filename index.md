@@ -9,14 +9,16 @@ sectionclass: h1
 
    <p>This is the website for the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group, also known as the DLF Metadata Assessment Working Group.</p>    
    <p>This site contains information about a number of projects this group has undertaken including:</p>
-- - --<a href="https://dlfmetadataassessment.github.io/EnvironmentalScan">the Environmental Scan undertaken during 2016</a>
+- - --<a href="https://dlfmetadataassessment.github.io/EnvironmentalScan">The Environmental Scan undertaken during 2016</a>
 - - --<a href="https://dlfmetadataassessment.github.io/Framework">A level framework for assessing descriptive metadata in digital collections</a>
 - - --<a href="https://dlfmetadataassessment.github.io/Tools">The ongoing work to build a repository of metadata assessment tools</a>
-- - --<a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse">A colleciton of application profiles, mappsings and practices</a>
+- - --<a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse">A collection of application profiles, mappings and practices</a>
 <br/>
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
 <p>You can also:</p>
 - - --<a href="/entries/about.html">Find out more about this group</a>
 - - --<a href="/entries/take-part.html">Find out more about how to take part</a>
 - - --<a href="/entries/collaborations.html">Find out about the collaborations we've taken part in</a>
 - - --<a href="/entries/contributors.html">Find out the people who have made this site possible</a>
-<!-- change to trigger rebuild -->

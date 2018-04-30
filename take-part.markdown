@@ -2,12 +2,12 @@
 sectionid: take-part
 sectionclass: h1
 is-parent: yes
-title: Take Part
+title: take part
 number: 20
 layout: page
 ---
 
-<h1>Take part</h1>
+<h1>Take part
 
 Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Visit our [our DLF wiki page](https://wiki.diglib.org/Assessment:Metadata) to find out more about the group or get involved.
 
@@ -15,4 +15,3 @@ We want this website and the information contained therein to be a living docume
 <br/>
 <br/>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1SG3Yv3WYotd8QlC_e1jp6q0KMQ836LLHjBojXwsQJwiZGQ/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-<br/>

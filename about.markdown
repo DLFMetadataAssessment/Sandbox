@@ -5,11 +5,11 @@ sectionclass: h1
 ---
 {::options parse_block_html="true" /}
 
-<h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
+<h1>DLF AIG MWG Metadata Assessment Toolkit
 <div type="content">
-<h2>About</h2>
+About</h2>
 
-   <p>Welcome to the Metadata Assessment Toolkit, a project of the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group.</p>
+   <p>Welcome to the Metadata Assessment Toolkit, a project of the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group(https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group. As a member of the DLF community, we abide by the DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).</p>
 
    <p>The DLF AIG Metadata Working Group collaboratively builds guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. We want to support discussions on what metadata assessment means, sharing of our efforts and approaches, how we perform metadata analysis, and why metadata assessment is important.</p>
 
