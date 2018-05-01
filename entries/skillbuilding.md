@@ -28,8 +28,8 @@ A very common question! The quote below from [Library Code Year’s GitHub Tutor
 | Resource | Comments |
 |----------|-------|
 | [Stack Overflow](https://stackoverflow.com/) | When you’ve got a problem you can’t solve, Stack Overflow can be a place to find  answers (or answers to very closely related problems). | 
-| [Django Girls - Intro to Command Line](https://tutorial.djangogirls.org/en/intro_to_command_line)| 
-| [Django Girls - Code editor](https://tutorial.djangogirls.org/en/code_editor/) | 
+| [Django Girls - Intro to Command Line](https://tutorial.djangogirls.org/en/intro_to_command_line)| - |
+| [Django Girls - Code editor](https://tutorial.djangogirls.org/en/code_editor/) | -| 
 
 ## Skillbuilding: Git + GitHub
 | Resource | Comments |
@@ -38,10 +38,11 @@ A very common question! The quote below from [Library Code Year’s GitHub Tutor
 |[Library Code Year’s tutorial on Git](https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project) |-|
 |[Intro to Git/GitHub for Metadata workshop materials](https://github.com/ucsdlib/git-novice) developed by UCSB/UCSD|A comprehensive introduction to Git for first-time users. Special thanks to Chrissy Rissmeyer at UCSB for the recommendation!|
 
-## Skillbuilding: Jekyll
+## Skillbuilding: Site Building with Jekyll, GitHub Pages
 | Resource | Comments |
 |----------|-------|
 |[Jekyll 3 on Windows](https://labs.sverrirs.com/jekyll/) | Very through step-by-step guide on how to install Jekyll for Windows machines. Starts with how to install Ruby and goes up through how to configure Jekyll once you’ve got it installed. Works best for Windows 7 & Windows 10 (pre-anniversary) machines. Please note: In testing, [Bundler](http://bundler.io/) was installed to manage gems. The only potential issue in this process may be the absence of instructions on how to use a manager for multiple Rubies. |
-|[Programming Historian tutorial on building a static site](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) | - |
-|[Thinkful - A Guide to Using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)| - | 
 |[Building a Site with Jekyll: Getting Started with Jekyll](http://kateefly.github.io/getting-started) | Jekyll walkthrough created for  Code4Lib Midwest 2017. |
+|[Tutorial on building a static site](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) | From the **Programming Historian**: "This lesson is for you if you’d like an entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control, such as a scholarly blog, project website, or online portfolio. At the end of this lesson, you’ll have a basic live website where you can publish content that other people can visit [...] and you’ll also have some resources to explore if you want to further customize the site." |
+|[A Guide to Using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)| From **Thinkful**, "this step-by-step guide gets you up to speed in minutes" using GitHub Pages as a hosting tool. | 
+
