@@ -65,5 +65,4 @@ You can see and comment on a list of outstanding issues.
 The examples and walk through of GitHub and Jekyll below uses "issue#3" as a subject. That's the branch name used in the commit message.
 
 ### Pull Requests
-Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull re
-quests.
+Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull requests.
