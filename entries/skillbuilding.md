@@ -38,6 +38,7 @@ A very common question! The quote below from [Library Code Year’s GitHub Tutor
 |[Library Code Year’s tutorial on Git](https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project) |-|
 |[Intro to Git/GitHub for Metadata workshop materials](https://github.com/ucsdlib/git-novice) developed by UCSB/UCSD|A comprehensive introduction to Git for first-time users. Special thanks to Chrissy Rissmeyer at UCSB for the recommendation!|
 
+
 ## Skillbuilding: Site Building with Jekyll, GitHub Pages
 | Resource | Comments |
 |----------|-------|
@@ -45,4 +46,5 @@ A very common question! The quote below from [Library Code Year’s GitHub Tutor
 |[Building a Site with Jekyll: Getting Started with Jekyll](http://kateefly.github.io/getting-started) | Jekyll walkthrough created for  Code4Lib Midwest 2017. |
 |[Tutorial on building a static site](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) | From the **Programming Historian**: "This lesson is for you if you’d like an entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control, such as a scholarly blog, project website, or online portfolio. At the end of this lesson, you’ll have a basic live website where you can publish content that other people can visit [...] and you’ll also have some resources to explore if you want to further customize the site." |
 |[A Guide to Using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)| From **Thinkful**, "this step-by-step guide gets you up to speed in minutes" using GitHub Pages as a hosting tool. | 
+|[Git Bash](https://gitforwindows.org/)|Git Bash refers to the BASH emulation tool that is provided when you install Git on a Windows machine. It provides a way for Windows users to use this Unix based environment instead of the DOS environment that Windows comes with (Command Prompt). This gives users an interface that is the same as what is used in macOS and most Linux systems and lets them follow instructions without having to substitute commands (such as dir for ls and so on). |
 
