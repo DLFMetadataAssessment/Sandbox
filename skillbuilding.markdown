@@ -1,3 +1,12 @@
+---
+sectionid: skillbuilding
+sectionclass: h1
+is-parent: yes
+title: skillbuilding resources
+number: 60
+layout: page
+---
+
 # Skillbuilding Resources
 
 ## Overview
