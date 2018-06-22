@@ -21,7 +21,14 @@ A very common question! The quote below from [Library Code Year’s GitHub Tutor
 
 ### What is Jekyll? 
 
-[tbd]
+Jekyll is a static site generator. It builds a static website for you based on simple text files organized into folders and their corresponding HTML templates. GitHub pages are powered by Jekyll. For more information see: https://jekyllrb.com/ 
+
+*Excerpt from CloudCannon's ['Why use a static site generator?'](https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/):* [...] the difference between dynamic CMSs such as WordPress or Drupal and static site generators like Jekyll: 
+
+- Static sites respond quickly because it retrieves files only, so there is not a lot of processing
+- Static sites are more secure; not as many vulnerabilities; no plugins
+- Static sites on server can handle more traffic
+- Static sites have version control
 
 ## Skillbuilding
 
