@@ -21,7 +21,8 @@ venv
 bower_components
 node_modules
 _site/
-#.sass-cache/
+.sass-cache/
 .jekyll-metadata
 .brackets.json
 Gemfile
+Gemfile.lock
