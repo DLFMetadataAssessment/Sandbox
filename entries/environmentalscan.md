@@ -5,7 +5,7 @@ layout: page
 ---
    {::options parse_block_html="true" /}
 
-<h1>DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
+<a href="/entries/projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
 
 <p>This was the first area of work for the DLF Metadata Assessment group in 2016. We performed a review of literature, tools, presentations, and organizations on the topics of metadata assessment and metadata quality with a focus on—but not limited to—digital repositories descriptive metadata.</p>
 

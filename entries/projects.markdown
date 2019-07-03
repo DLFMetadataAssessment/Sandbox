@@ -7,8 +7,6 @@ number: 20
 layout: page
 ---
 
-<h1>Projects</h1>
-
 Learn more about the projects the Metadata Working Group is doing!
 
 * [Environmental Scan](/entries/environmentalscan)
