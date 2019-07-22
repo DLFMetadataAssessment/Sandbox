@@ -7,12 +7,10 @@ number: 20
 layout: page
 ---
 
-<h1>Projects</h1>
-
 Learn more about the projects the Metadata Working Group is doing!
 
-* [Environmental Scan](http://dlfmetadataassessment.github.io/EnvironmentalScan/)
+* [Environmental Scan](/entries/environmentalscan)
 * [Metadata Assessment Framework](http://dlfmetadataassessment.github.io/Framework)
-* [Tools for Metadata Assessment](https://dlfmetadataassessment.github.io/Tools)
+* [Tools for Metadata Assessment](/entries/tools)
 * [Metadata Application Profile Clearinghouse](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse)
 * [Metadata Benchmarks]()
