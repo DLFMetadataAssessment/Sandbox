@@ -7,6 +7,8 @@ layout: page
 
 <a href="/entries/projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
 
+<h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
+
 <p>This was the first area of work for the DLF Metadata Assessment group in 2016. We performed a review of literature, tools, presentations, and organizations on the topics of metadata assessment and metadata quality with a focus on—but not limited to—digital repositories descriptive metadata.</p>
 
 <p><a href="../img/DLFMetadataAssessmentWorkingGroup2016.pdf">Download a version of this resource as a PDF</a> (static snapshot from fall 2016)</p>
@@ -70,6 +72,8 @@ The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-
 <h3>ALCTS/LITA Metadata Standards</h3>
 
 This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring.
+
+<a href="#top">Return to top</a>
 
 <h2 id="presentations">Presentations</h2>
 
@@ -155,6 +159,8 @@ Presentations reviewed during the 2016 environmental scan are organized below in
 
 <p>This presentation offers three perspectives on DPLA data: an overview of the data, usage, and language in the descriptions; the strategies involved in data quality control across the collection; and data quality in aggregation.</p>
 
+<a href="#top">Return to top</a>
+
 <h2 id="pubs">Publications</h2>
 
 The publications review detailed in this section was completed in 2016. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
@@ -194,6 +200,8 @@ The publications review group gathered citations from existing personal collecti
 <h3>Full Citations List</h3>
 
 A full citations list, including citations of interest added since the 2016 survey, can be found in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment). Your additions and updates to the list are welcome.
+
+<a href="#top">Return to top</a>
 
 <h2 id="tools">Tools</h2>  
    
@@ -269,6 +277,8 @@ The following charts are snapshots from August 2016. The first chart provides a 
 The tools we reviewed also reflect the variety of work associated with metadata assessment. Many are designed to help with assessment across large datasets, while others reflect the work of sharing and testing, statistical computing, or data visualization.
 
 <img src="/img/toolsdesigned.png"/>
+
+<a href="#top">Return to top</a>
 
 <h2 id="citations">Citations</h2>
 
@@ -412,6 +422,8 @@ Zavalina, O. L. (2014). Complementarity in Subject Metadata in Large-Scale Digit
 <br><br>
 Zavalina, O. L., Kizhakkethil, P., Alemneh, D. G., Phillips, M. E., & Tarver, H. (2015). Building a Framework of Metadata Change to Support Knowledge Management. Journal of Information & Knowledge Management, 14(01). [https://doi.org/10.1142/S0219649215500057](https://doi.org/10.1142/S0219649215500057)
 
+<a href="#top">Return to top</a>
+
 <h2 id="contributors">2016 Contributors</h2>
 
 - - -- Janet Ahrberg
@@ -474,3 +486,5 @@ Zavalina, O. L., Kizhakkethil, P., Alemneh, D. G., Phillips, M. E., & Tarver, H.
 - - -- Liz Woolcott
 - - -- Jennifer Young
 - - -- Angelina Zaytsev
+
+<a href="#top">Return to top</a>
