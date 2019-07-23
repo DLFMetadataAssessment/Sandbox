@@ -1,22 +1,23 @@
 ---
 layout: page
 title: home
-sectionclass: h1
 ---
 
 {::options parse_block_html="true" /}
-   <h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
+# DLF AIG MWG Metadata Assessment Toolkit
 
-   <p>This is the website for the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group, also known as the DLF Metadata Assessment Working Group.</p>    
-   <p>This site contains information about a number of projects this group has undertaken including:</p>
-- - --<a href="https://dlfmetadataassessment.github.io/EnvironmentalScan">the Environmental Scan undertaken during 2016</a>
-- - --<a href="https://dlfmetadataassessment.github.io/Framework">A level framework for assessing descriptive metadata in digital collections</a>
-- - --<a href="https://dlfmetadataassessment.github.io/Tools">The ongoing work to build a repository of metadata assessment tools</a>
-- - --<a href="https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse">A colleciton of application profiles, mappsings and practices</a>
-<br/>
-<p>You can also:</p>
-- - --<a href="/entries/about.html">Find out more about this group</a>
-- - --<a href="/entries/take-part.html">Find out more about how to take part</a>
-- - --<a href="/entries/collaborations.html">Find out about the collaborations we've taken part in</a>
-- - --<a href="/entries/contributors.html">Find out the people who have made this site possible</a>
-<!-- change to trigger rebuild -->
+This is the website for the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group, also known as the DLF Metadata Assessment Working Group.
+
+This site contains information about a number of projects this group has undertaken including:
+   
+* [The Environmental Scan undertaken during 2016](https://dlfmetadataassessment.github.io/EnvironmentalScan)
+* [A level framework for assessing descriptive metadata in digital collections](https://dlfmetadataassessment.github.io/Framework)
+* [The ongoing work to build a repository of metadata assessment tools](https://dlfmetadataassessment.github.io/Tools)
+* [A collection of application profiles, mappings and practices](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse)
+
+
+You can also:
+* [Find out more about this group](/entries/about.html)
+* [Find out more about how to take part](/entries/take-part.html)
+* [Find out about the collaborations we've taken part in](/entries/collaborations.html)
+* [Find out the people who have made this site possible](/entries/contributors.html)
