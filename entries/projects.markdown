@@ -1,16 +1,13 @@
 ---
-sectionid: projects
-sectionclass: h1
-is-parent: yes
 title: projects
-number: 20
 layout: page
+permalink: Projects
 ---
 
-Learn more about the projects the Metadata Working Group is doing!
+The DLF Assessment Interest Group (AIG) Metadata Working Group (MWG) has undertaken a number of projects since it was formed in 2015. Below you will find more information about the projects that the MWG has undertaken or is currently working on.
 
-* [Environmental Scan](/entries/environmentalscan)
-* [Metadata Assessment Framework](http://dlfmetadataassessment.github.io/Framework)
-* [Tools for Metadata Assessment](/entries/tools)
+* [Environmental Scan](/EnvironmentalScan)
+* [Metadata Assessment Framework](/Framework)
+* [Tools for Metadata Assessment](/Tools)
 * [Metadata Application Profile Clearinghouse](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse)
-* [Metadata Benchmarks]()
+* [Metadata Benchmarks](/MetadataBenchmarks)
