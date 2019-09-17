@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: entries/about
+permalink: about
 sectionclass: h1
 ---
 {::options parse_block_html="true" /}

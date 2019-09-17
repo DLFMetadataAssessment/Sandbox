@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: Home
 ---
 
 {::options parse_block_html="true" /}
