@@ -4,6 +4,62 @@ title: contributors
 ---
 {::options parse_block_html="true" /}
 
+### 2019
+
+This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
+
+* Shaun Akhtar
+* Linda Ballinger (leader, Inclusive Metadata Task Force)
+* Jeremy Bartczak
+* Liz Bodian
+* Michael Bolam (leader, Environmental Scan subgroup)
+* Michael Campos-Quinn
+* Scott Carlson
+* Madison Chartier
+* Anastasia Chiu
+* Jane Darcovich
+* Danoosh Davoodi
+* Megan De Armond
+* Maggie Dickson
+* Anne Donlon
+* Felicity Dykas
+* Leanne Finnegan
+* Kate Flynn (co-facilitator; leader, Website subgroup)
+* Steven Gentry
+* Katrina Gertz
+* Kathryn Gronsbell
+* Gretchen Gueguen
+* Meredith Hale
+* Julie Hardesty
+* Teresa Hebron
+* Christine Kim
+* Deb Kulczak
+* Tricia Lampron
+* Sarah Lindsey
+* Xiaoli Ma
+* Mandy Mastrovita
+* Amelia Mowry (leader, Tools subgroup)
+* Anna Neatrour (co-facilitator)
+* Wen Nie Ng
+* Allison Nolan
+* Charity Park
+* Andrea Payant
+* Susan Ponischil
+* Alexandra Provo
+* Sara Rubinow
+* Hannah Scates Kettler
+* Jacob Shelby
+* Nicole Shibata
+* Gina Strack
+* Hannah Tarver
+* Tammy Troup
+* Luiza Wainer
+* Anne Washington
+* Rachel White
+* Manda Wise Pizzollo
+* Rachel Wittmann (leader, Benchmarks subgroup)
+* Geoffrey Wood
+
 ### 2018
 
 This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
