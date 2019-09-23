@@ -1,11 +1,11 @@
 ---
-sectionid: environmentalscan
 title: environmental scan
 layout: page
+permalink: EnvironmentalScan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/entries/projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
+<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
 
