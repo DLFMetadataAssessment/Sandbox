@@ -19,13 +19,11 @@ This site is dedicated to the study of benchmarks in metadata quality. As a part
 
 <h2 id="survey">Metadata Benchmarks Survey</h2>
 
-As a part of the Digital Library Federation Forum Assessment Interest Group Metadata Working Group, the Metadata Quality Benchmarks subgroup created this survey to investigate metadata quality and how it is measured in libraries, archives, and museums. The goal of this survey is to gain insight into participant’s methods and criteria for evaluating metadata quality and to identify potential gaps in present knowledge and practices. The survey will be open through June 30, 2019, or until a sufficient number of responses has been recorded.
+As a part of the Digital Library Federation Forum Assessment Interest Group Metadata Working Group, the Metadata Quality Benchmarks subgroup created this survey to investigate metadata quality and how it is measured in libraries, archives, and museums. The goal of this survey is to gain insight into participant’s methods and criteria for evaluating metadata quality and to identify potential gaps in present knowledge and practices. The survey was open May 23, 2019 - July 10, 2019 and is now closed.
 
 This survey is open to anyone self-identifying as a metadata professional who is currently employed in a library, archive, museum or other cultural heritage institution. Specifically, eligible participants for this study will be individuals with some responsibility for metadata management and/or creation for a digital repository.
 
 A <a href="../assets/Survey%20of%20Metadata%20Quality%20Benchmarks.pdf">PDF preview of the survey is available for review</a>.
-
-**[Take the survey](https://survey.az1.qualtrics.com/jfe/form/SV_6tKwGoSvJDuj5uR)**
 
 <h2 id="definitions">Definitions</h2>
 
