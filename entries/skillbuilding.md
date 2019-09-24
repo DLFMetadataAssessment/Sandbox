@@ -47,6 +47,7 @@ General introductions to resources that can help you approach more targeted tuto
 | [Django Girls - Code editor](https://tutorial.djangogirls.org/en/code_editor/) | -| 
 
 ### Skillbuilding: Git + GitHub
+
 | Resource | Comments |
 |----------|-------|
 |[Try Git](https://try.github.io/levels/1/challenges/1)|Step by step tutorial on how to understand and use Git. Includes instructions for some of the most commonly used commands. Serves as a refresher for those with command-line interface (CLI) experience, but also good way for people to get exposed to and practice using the command line.|
@@ -55,6 +56,7 @@ General introductions to resources that can help you approach more targeted tuto
 
 
 ### Skillbuilding: Site Building with Jekyll, GitHub Pages
+
 | Resource | Comments |
 |----------|-------|
 |[Jekyll 3 on Windows](https://labs.sverrirs.com/jekyll/) | Very through step-by-step guide on how to install Jekyll for Windows machines. Starts with how to install Ruby and goes up through how to configure Jekyll once you’ve got it installed. Works best for Windows 7 & Windows 10 (pre-anniversary) machines. Please note: In testing, [Bundler](http://bundler.io/) was installed to manage gems. The only potential issue in this process may be the absence of instructions on how to use a manager for multiple Rubies. |
