@@ -1,3 +1,9 @@
+---
+layout: default
+title: Skillbuilding
+permalink: skillbuilding
+---
+
 # Skillbuilding Resources
 
 ## Overview
