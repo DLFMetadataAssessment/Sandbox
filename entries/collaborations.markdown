@@ -1,7 +1,7 @@
 ---
-sectionid: collaborations
 title: collaborations
 layout: page
+permalink: collaborations
 ---
 
 {::options parse_block_html="true" /}
