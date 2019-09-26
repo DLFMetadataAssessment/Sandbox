@@ -122,7 +122,7 @@ permalink: Framework
 
    * Support
 
-   It is inevitable that once you plunge enthusiastically into metadata assessment you’ll find you need a bit of help. Plan ahead. Some tools have more extensive documentation or more active communities than others; these resources may be helpful or daunting depending on your skill level. For a resource that requires no metadata or technical expertise, we recommend the tool-agnostic <a href="https://www.diglib.org/dlf-metadata-support-group/">DLF Metadata Support Group</a>, which provides a friendly community on Slack that is “a place to share resources, strategies for working through some common metadata conundrums, and reassurances that you’re not the only one that has no idea how that happened.” Identifying resources to support your tool use before you start will provide a foundation for finding solutions when you encounter issues down the road.<a href="#footnote-2">[2]</a>
+   It is inevitable that once you plunge enthusiastically into metadata assessment you’ll find you need a bit of help. Plan ahead. Some tools have more extensive documentation or more active communities than others; these resources may be helpful or daunting depending on your skill level. For a resource that requires no metadata or technical expertise, we recommend the tool-agnostic <a href="https://www.diglib.org/groups/dlf-metadata-support-group/">DLF Metadata Support Group</a>, which provides a friendly community on Slack that is “a place to share resources, strategies for working through some common metadata conundrums, and reassurances that you’re not the only one that has no idea how that happened.” Identifying resources to support your tool use before you start will provide a foundation for finding solutions when you encounter issues down the road.</a>
 
 <a href="#top">Back to top</a>
 
@@ -134,10 +134,5 @@ permalink: Framework
    * **Sustainability.** Structure your documentation so that it can be an extensible template for future assessment initiatives. Documentation also supports project sustainability during staffing transitions.
    * **Compliance.** When multiple staff are performing metadata analyses, documentation ensures that everyone uses the same structure and metrics.
    * **Growth.** As you progress, you’ll continue to test and refine your approach. Documentation creates benchmarks that mark progress over time.
-
-
-
-
-   <p id="footnote-2">[2] DLF Metadata Support Group. <a href="https://www.diglib.org/dlf-metadata-support-group">https://www.diglib.org/dlf-metadata-support-group</a>.</p>
 
 <a href="#top">Back to top</a>
