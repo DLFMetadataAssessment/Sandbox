@@ -12,7 +12,7 @@ This site contains information about several projects that this group has undert
    
 * [An <b>environmental scan</b> of metadata assessment and metadata quality literature, tools, presentations, and organizations (originally undertaken in 2016, currently under review)](/Sandbox/EnvironmentalScan).
 * [A <b>framework</b> for assessing descriptive metadata in digital collections (undertaken in 2017)](/Sandbox/Framework).
-* [A <b>repository</b> for metadata assessment tools (Ongoing/Current)](/Tools).
+* [A <b>repository</b> for metadata assessment tools (Ongoing/Current)](/Sandbox/Tools).
 * [A <b>collection</b> of metadata application profiles, mappings, and practices (Ongoing/Current)](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse).
 * [A <b>survey</b> of metadata assessment and metadata quality practices among various libraries, archives, and museums (Ongoing/Current)](/Sandbox/MetadataBenchmarks).
 
