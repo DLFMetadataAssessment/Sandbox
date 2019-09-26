@@ -1,48 +1,21 @@
 ---
 sectionid: tools
 title: tools
-layout: page
+layout: default
+permalink: Tools
 ---
    {::options parse_block_html="true" /}
 
+<h1>Tools</h1>
 
-<a href="/entries/projects">projects</a>->tools
+<a href="/projects">projects</a>->Tools
 
-<table>
-	<tr>
-		<td>Tool Name</td>
-		<td>Designed For</td>
-		<td>Type</td>
-		<td>URL</td>
-		<td>GUI</td>
-		<td>Command Line Interface</td>
-		<td>Free</td>
-		<td>OSS or proprietary</td>
-		<td>Written in</td>
-		<td>Associated Tools</td>
-	</tr>
-	<tr>
-		<td><a href="/entries/marcedit">MARCEdit</a></td>
-		<td>assessing metadata</td>
-		<td>interface (GUI) tools</td>
-		<td><a href="http://marcedit.reeset.net/">http://marcedit.reeset.net/</a></td>
-		<td>Client available for Windows and Mac</td>
-		<td>y (<a href="http://marcedit.reeset.net/cmarcedit-exe-using-the-command-line">http://marcedit.reeset.net/cmarcedit-exe-using-the-command-line</a></td>
-		<td>y</td>
-		<td>Open with restrictions, see license <a href="http://marcedit.reeset.net/marcedit-end-user-license-agreement">http://marcedit.reeset.net/marcedit-end-user-license-agreement</a></td>
-		<td>C#</td>
-		<td></td>
-	</tr>
-		<tr>
-		<td><a href="/entries/anothertool">Another Tool</a></td>
-		<td>assessing metadata</td>
-		<td>interface (GUI) tools</td>
-		<td><a href="http://marcedit.reeset.net/">http://marcedit.reeset.net/</a></td>
-		<td>Client available for Windows and Mac</td>
-		<td>y (<a href="http://marcedit.reeset.net/cmarcedit-exe-using-the-command-line">http://marcedit.reeset.net/cmarcedit-exe-using-the-command-line</a></td>
-		<td>y</td>
-		<td>Open with restrictions, see license <a href="http://marcedit.reeset.net/marcedit-end-user-license-agreement">http://marcedit.reeset.net/marcedit-end-user-license-agreement</a></td>
-		<td>C#</td>
-		<td></td>
-	</tr>
-</table>
+<p>The DLF Assessment Interest Group Metadata Working Group (DLF AIG MWG) collects  information about--and enhances access to--various metadata assessment tools to support professionals who analyze, collect, create, enhance, manipulate, and/or validate various kinds of metadata.</p> 
+
+<p>Information about these tools is published in a regularly updated GitHub wiki.</p>
+
+<p>To review our list of metadata assessment tools, visit the **[DLF AIG MWG Tools wiki](https://github.com/DLFMetadataAssessment/Tools/wiki)**!</p>
+
+<p>To suggest a tool be added to the wiki, please fill out **[our project proposal form](https://docs.google.com/forms/d/e/1FAIpQLScGjOzcARHS0IyfWsUzZQEcOl9b-2BsanT4xnpo5HrSjgDEfg/viewform?usp=sf_link)**!</p>
+
+<p>To recommend a change to our website or tool wiki, please fill out **[our website change request form](https://docs.google.com/forms/d/e/1FAIpQLSdr_FG4V8A6t9n-VLjNvG6OYjtSgjKvmQKz0CmJkRwgqyvXKg/viewform?usp=sf_link)**!</p>
