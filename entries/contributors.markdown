@@ -1,6 +1,7 @@
 ---
 layout: default
 title: contributors
+permalink: contributors
 ---
 {::options parse_block_html="true" /}
 
@@ -58,7 +59,6 @@ Anne Washington
 Rachel White
 Manda Wise Pizzollo
 Rachel Wittmann (leader, Benchmarks subgroup)
-Geoffrey Wood
 
 ### 2018
 
