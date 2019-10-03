@@ -58,7 +58,6 @@ This list of contributors was created based on the lists of people who attended 
 * Rachel White
 * Manda Wise Pizzollo
 * Rachel Wittmann (leader, Benchmarks subgroup)
-* Geoffrey Wood
 
 ### 2018
 
