@@ -11,3 +11,4 @@ The DLF Assessment Interest Group (AIG) Metadata Working Group (MWG) has underta
 * [Tools for Metadata Assessment](/Sandbox/Tools)
 * [Metadata Application Profile Clearinghouse](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse)
 * [Metadata Benchmarks](/Sandbox/MetadataBenchmarks)
+* [Metadata Analysis Workshop](/Sandbox/MetadataWorkshop)
