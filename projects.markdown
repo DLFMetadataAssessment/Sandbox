@@ -13,5 +13,5 @@ Below you will find more information about the projects that the DLF AIG Metadat
 * [A <b>repository</b> for metadata assessment tools (Ongoing/Current)](/Sandbox/Tools).
 * [A <b>collection</b> of metadata application profiles, mappings, and practices (Ongoing/Current)](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse).
 * [A <b>survey</b> of metadata assessment and metadata quality practices among various libraries, archives, and museums (Ongoing/Current)](/Sandbox/MetadataBenchmarks).
-* [A Metadata Analysis Workshop designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018](/Sandbox/MetadataWorkshop).
+* [A <b>Metadata Analysis Workshop</b> designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018](/Sandbox/MetadataWorkshop).
 
