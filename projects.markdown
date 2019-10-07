@@ -1,8 +1,13 @@
 ---
+sectionid: projects
+sectionclass: h1
+is-parent: yes
 title: projects
+number: 20
 layout: page
 permalink: Projects
 ---
+<h1>Projects</h1>
 
 The DLF Assessment Interest Group (AIG) Metadata Working Group (MWG) has undertaken a number of projects since it was formed in 2015. 
 
