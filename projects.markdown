@@ -1,18 +1,17 @@
 ---
-sectionid: projects
-sectionclass: h1
-is-parent: yes
 title: projects
-number: 20
 layout: page
+permalink: Projects
 ---
 
-<h1>Projects</h1>
+The DLF Assessment Interest Group (AIG) Metadata Working Group (MWG) has undertaken a number of projects since it was formed in 2015. 
 
-Learn more about the projects the Metadata Working Group is doing!
+Below you will find more information about the projects that the DLF AIG Metadata Assessment Working Group has completed or is currently working on, including:
 
-* [Environmental Scan](http://dlfmetadataassessment.github.io/EnvironmentalScan/)
-* [Metadata Assessment Framework](http://dlfmetadataassessment.github.io/Framework)
-* [Tools for Metadata Assessment](https://dlfmetadataassessment.github.io/Tools)
-* [Metadata Application Profile Clearinghouse](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse)
-* [Metadata Benchmarks]()
+* [An <b>environmental scan</b> of metadata assessment and metadata quality literature, tools, presentations, and organizations (originally undertaken in 2016, currently under review)](/Sandbox/EnvironmentalScan).
+* [A <b>framework</b> for assessing descriptive metadata in digital collections (undertaken in 2017)](/Sandbox/Framework).
+* [A <b>repository</b> for metadata assessment tools (Ongoing/Current)](/Sandbox/Tools).
+* [A <b>collection</b> of metadata application profiles, mappings, and practices (Ongoing/Current)](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse).
+* [A <b>survey</b> of metadata assessment and metadata quality practices among various libraries, archives, and museums (Ongoing/Current)](/Sandbox/MetadataBenchmarks).
+* [A Metadata Analysis Workshop designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018](/Sandbox/MetadataWorkshop).
+
