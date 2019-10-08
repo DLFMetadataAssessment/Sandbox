@@ -15,7 +15,7 @@ Each resource includes a description of its usefulness, applicability to the gro
 
 ## General Introduction to Website and its Structure
 
-[tbd]
+This site presents a comprehensive but simplified resource for how to approach metadata assessment. In 2019, the MWG Website subgroup updated the site to run on a simplified Jekyll template, resulting in a more streamlined and unified structure. The intention was to increase usability of the site and its contents.
 
 ### What is Git? What is GitHub?
 
