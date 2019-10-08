@@ -1,7 +1,7 @@
 ---
-layout: default
-title: About
-permalink: about
+layout: page
+title: about
+permalink: About
 ---
 {::options parse_block_html="true" /}
 

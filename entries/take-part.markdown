@@ -3,6 +3,7 @@ title: take part
 layout: page
 permalink: take-part
 ---
+{::options parse_block_html="true" /}
 
 Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Visit our [DLF wiki page](https://wiki.diglib.org/Assessment:Metadata) to find out more about the group or get involved.
 

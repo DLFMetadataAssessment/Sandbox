@@ -1,12 +1,9 @@
 ---
-sectionid: tools
 title: tools
-layout: default
+layout: page
 permalink: Tools
 ---
    {::options parse_block_html="true" /}
-
-<h1>Tools</h1>
 
 <a href="/projects">projects</a>->Tools
 

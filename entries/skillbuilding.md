@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Skillbuilding
+layout: page
+title: Skillbuilding Resources
 permalink: skillbuilding
 ---
 
-# Skillbuilding Resources
+{::options parse_block_html="true" /}
 
 ## Overview
 
