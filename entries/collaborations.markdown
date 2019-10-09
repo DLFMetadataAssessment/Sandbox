@@ -1,7 +1,7 @@
 ---
-title: collaborations
+title: Collaborations
 layout: page
-permalink: collaborations
+permalink: Collaborations
 ---
 
 {::options parse_block_html="true" /}
