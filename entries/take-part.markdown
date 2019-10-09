@@ -1,7 +1,7 @@
 ---
-title: take part
+title: Take Part
 layout: page
-permalink: take-part
+permalink: Take-Part
 ---
 {::options parse_block_html="true" /}
 

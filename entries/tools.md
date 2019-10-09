@@ -1,5 +1,5 @@
 ---
-title: tools
+title: Tools
 layout: page
 permalink: Tools
 ---

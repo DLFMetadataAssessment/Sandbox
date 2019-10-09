@@ -1,5 +1,5 @@
 ---
-title: metadata assessment framework and guidance
+title: Metadata Assessment Framework and Guidance
 layout: page
 permalink: Framework
 ---

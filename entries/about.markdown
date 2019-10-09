@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: About
 ---
 {::options parse_block_html="true" /}
