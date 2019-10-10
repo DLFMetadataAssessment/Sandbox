@@ -1,5 +1,5 @@
 ---
-title: environmental scan
+title: Environmental Scan
 layout: page
 permalink: EnvironmentalScan
 ---
