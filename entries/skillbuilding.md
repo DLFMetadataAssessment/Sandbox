@@ -3,17 +3,22 @@ layout: page
 title: Skillbuilding Resources
 permalink: Skillbuilding
 ---
-
 {::options parse_block_html="true" /}
 
-## Overview
+<ul id ="top">
+	<li><a href="#overview">Overview</a></li>
+	<li><a href="#general-intro">General Introduction to Website and its Structure</a></li>
+	<li><a href="#skillbuilding">Skillbuilding</a></li>
+	<li><a href="#supporting">Supporting the DLF AIG Metadata Assessment Site</a></li>
+</ul>
+
+<h2 id="overview">Overview</h2>
 
 This list of tutorials and resources is offered to support those who are interested in contributing and collaborating on the site maintenance and improvement. One of the 2018 goals of the Website Subgroup is to maintain a document to encourage self-guided learning for Jekyll, Git, and GitHub. 
 
 Each resource includes a description of its usefulness, applicability to the group's work on this site, or general ease of use. Recommendations and tips are included, as well.
 
-
-## General Introduction to Website and its Structure
+<h2 id="general-intro">General Introduction to Website and its Structure</h2>
 
 This site presents a comprehensive but simplified resource for how to approach metadata assessment. In 2019, the MWG Website subgroup updated the site to run on a simplified Jekyll template, resulting in a more streamlined and unified structure. The intention was to increase usability of the site and its contents.
 
@@ -36,7 +41,9 @@ Jekyll is a static site generator. It builds a static website for you based on s
 - Static sites on server can handle more traffic
 - Static sites have version control
 
-## Skillbuilding
+<a href="#top">Return to top</a>
+
+<h2 id="skillbuilding">Skillbuilding</h2>
 
 General introductions to resources that can help you approach more targeted tutorials and guides.
 
@@ -54,7 +61,6 @@ General introductions to resources that can help you approach more targeted tuto
 |[Library Code Year’s tutorial on Git](https://github.com/LibraryCodeYearIG/Codeyear-IG-Github-Project) |-|
 |[Intro to Git/GitHub for Metadata workshop materials](https://github.com/ucsdlib/git-novice) developed by UCSB/UCSD|A comprehensive introduction to Git for first-time users. Special thanks to Chrissy Rissmeyer at UCSB for the recommendation!|
 
-
 ### Skillbuilding: Site Building with Jekyll, GitHub Pages
 
 | Resource | Comments |
@@ -65,7 +71,9 @@ General introductions to resources that can help you approach more targeted tuto
 |[A Guide to Using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)| From **Thinkful**, "this step-by-step guide gets you up to speed in minutes" using GitHub Pages as a hosting tool. | 
 |[Git Bash](https://gitforwindows.org/)|Git Bash refers to the BASH emulation tool that is provided when you install Git on a Windows machine. It provides a way for Windows users to use this Unix based environment instead of the DOS environment that Windows comes with (Command Prompt). This gives users an interface that is the same as what is used in macOS and most Linux systems and lets them follow instructions without having to substitute commands (such as dir for ls and so on). |
 
-## Supporting the DLF AIG Metadata Assessment Site
+<a href="#top">Return to top</a>
+
+<h2 id="supporting">Supporting the DLF AIG Metadata Assessment Site</h2>
 
 Get involved! Ask questions! Submit feedback! Submit a PR!
 
@@ -81,3 +89,5 @@ The examples and walk through of GitHub and Jekyll below uses "issue#3" as a sub
 
 ### Pull Requests
 Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull requests.
+
+<a href="#top">Return to top</a>
