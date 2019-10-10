@@ -1,7 +1,7 @@
 ---
-layout: default
-title: contributors
-permalink: contributors
+layout: page
+title: Contributors
+permalink: Contributors
 ---
 {::options parse_block_html="true" /}
 

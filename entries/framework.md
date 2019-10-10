@@ -1,13 +1,11 @@
 ---
-title: metadata assessment framework
+title: Metadata Assessment Framework and Guidance
 layout: page
 permalink: Framework
 ---
    {::options parse_block_html="true" /}
    
    <a href="/Projects">projects</a>->Metadata Assessment Framework and Guidance
-
-   <h1 id="top">Metadata Assessment Framework and Guidance</h1>
    
    <ul>
 	<li><a href="#Metadata_metrics">Metadata metrics</a></li>

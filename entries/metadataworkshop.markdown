@@ -1,5 +1,5 @@
 ---
-title: metadata analysis workshop
+title: Metadata Analysis Workshop
 layout: page
 permalink: MetadataWorkshop
 ---

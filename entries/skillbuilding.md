@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Skillbuilding
-permalink: skillbuilding
+layout: page
+title: Skillbuilding Resources
+permalink: Skillbuilding
 ---
 
-# Skillbuilding Resources
+{::options parse_block_html="true" /}
 
 ## Overview
 
