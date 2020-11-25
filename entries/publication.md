@@ -15,9 +15,9 @@ permalink: publications
 
 <p><a href="https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit">Early draft and notes for the Environmental Scan</a> (not actively maintained)</p>
 
-<h2 id="orgs">Presentations &amp; Groups</h2>
+<h2 id="orgs">Presentations</h2>
 
-<h2 id="orgs">Publications &amp; Groups</h2>
+<h2 id="orgs">Publications</h2>
 
 This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
