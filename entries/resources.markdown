@@ -5,8 +5,8 @@ permalink: Resources
 ---
 {::options parse_block_html="true" /}
 
-Presentations and Publications of Note
-Metadata Application Profile (MAP) Clearinghouse
-Tools Repository 
-Skillbuilding Resources
+<a href="/Sandbox/resources/publication">Presentations and Publications of Note</a>
+<a href="/Sandbox/resources/MetadataSpecsClearinghouse">Metadata Application Profile (MAP) Clearinghouse</a>
+<a href="/Sandbox/resources/tools">Tools Repository</a>
+<a href="/Sandbox/resources/skillbuilding">Skillbuilding Resources</a>
 
