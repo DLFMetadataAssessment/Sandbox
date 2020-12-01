@@ -8,3 +8,6 @@ permalink: ProjectCurrent
 <a href="/Projects">projects</a>->Current Projects
 
 <h1 id="top">Current Projects</h1>
+
+Metadata Benchmarks Phase 2
+Blog Posts
