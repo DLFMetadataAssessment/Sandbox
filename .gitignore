@@ -20,8 +20,8 @@ Thumbs.db
 venv
 bower_components
 node_modules
-_site/
-.sass-cache/
+#_site/
+#.sass-cache/
 .jekyll-metadata
 .brackets.json
 Gemfile

@@ -3,7 +3,7 @@ name: DLF Metadata Assessment Working Group
 author: DLF AIG Metadata Working Group
 version: V 1.0
 encoding: utf-8
-theme: jekyll-theme-architect
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
