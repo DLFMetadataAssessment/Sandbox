@@ -5,7 +5,7 @@ permalink: archived-environmental-scan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Projects">projects</a>-><a href="/Projects/ArchivedProjects">Archived Projects</a>-->Environmental Scan (archived)
+<a href="/Projects">projects</a>-><a href="ArchivedProjects">Archived Projects</a>-->Environmental Scan (archived)
 
 <h1 id="top">Environmental Scan (archived)</h1>
 
