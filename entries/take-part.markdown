@@ -1,8 +1,13 @@
 ---
-title: take part
+title: Take Part
 layout: page
-permalink: take-part
+permalink: Take-Part
 ---
+{::options parse_block_html="true" /}
+
+Linked from main page. Will include schedule.
+
+Old text below:
 
 Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Visit our [DLF wiki page](https://wiki.diglib.org/Assessment:Metadata) to find out more about the group or get involved.
 

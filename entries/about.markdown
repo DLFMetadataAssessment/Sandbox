@@ -1,46 +1,56 @@
 ---
-layout: default
-title: about
-sectionclass: h1
+layout: page
+title: About
+permalink: About
 ---
 {::options parse_block_html="true" /}
 
-Welcome to the Metadata Assessment Toolkit, a project of the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group. As a member of the DLF community, we abide by the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
+Welcome to the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group. 
 
-The DLF AIG Metadata Working Group collaboratively builds guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. We want to support discussions on what metadata assessment means, sharing of our efforts and approaches, how we perform metadata analysis, and why metadata assessment is important.
+<h2>Mission</h2>
 
-The DLF AIG Metadata Working Group works on high-level outputs that a wide-number of digital cultural heritage repository users can implement for metadata assessment. This group does not offer prescriptive recommendations for metadata (using one schema versus another, or comparisons of controlled vocabularies, etc.), but rather focuses on how (both functionally and to what possible metrics) to measure, evaluate and assess the metadata as it exists in a variety of digital library systems. We hope our toolkit lends itself to performing your own assessment, being able to understand the results, and then decide a pathway for metadata enhancement - if that is your goal. Metadata assessment can also give you new insights into your collections and data beyond quality control, and we address that aspect as well.
+The DLF Metadata Assessment Working Group strives to collaboratively build guidelines, best practices, tools, and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. We fulfill this mission by supporting discussions of metadata assessment and quality control, sharing metadata assessment approaches, and fostering a community of dedicated metadata assessment professionals.
 
-*“This toolkit provides a plain language, high-level framework for assessing descriptive metadata in digital collections. Due to the wide range of digital collections, users, and institutions, the guidance outlines a general path to assessment, followed by more tailored paths for a set of use cases, without reference to particular schema or vocabularies.“*
+The DLF Metadata Assessment Working Group creates high-level outputs that metadata workers from all walks of life can employ for their various metadata assessment needs. 
 
-Right now, the DLF AIG Metadata Assessment Working Group Toolkit focuses primarily on Metadata Assessment for understanding mostly descriptive metadata needs and pain points. This was the largest and most documented need area for this Toolkit.
+As such, our efforts focus on how to measure, evaluate, and assess metadata as it exists in various digital library systems. 
 
-However, we do not limit ourselves to only digital repository, descriptive metadata assessment. As our group’s work builds out, we hope to cover:
-    
-* other types of metadata (structural, administrative, technical, …);
-* assessment of the utility and importance of metadata as well as the qualitative state of metadata currently used;
-* and metadata beyond the digital repository.
+We hope that this resource offers a way for fellow metadata professionals to perform their own assessment of metadata practices; understand the results; and--ultimately--decide on a path that both enhances metadata quality and leads to a better understanding of one's collections. 
 
-The work areas of the 2018 DLF Metadata Assessment Working Group are:
+<h2>Organization</h2>
 
-* Restructure and document the MWG website
-* Review and revise the Metadata Analysis Workshop
-* Work towards creating a metadata analysis tools repository
-* Begin discussion on creating general benchmarks for metadata quality. This area of work may include gathering tools and methods for measurement of metadata quality, defining benchmarks, and establishing a platform for topic discussion
+The DLF Metadata Assessment Working Group consists of the following sub-groups:
+- Collaboration (with other AIG working groups).
+- Environmental Scan.
+- Metadata Quality Benchmarks.
+- Tools.
+- Website.
 
+<h2>Current Project Focus</h2>
 
-The work areas of the 2017 DLF Metadata Assessment Working Group are:
+The 2019 DLF Metadata Assessment Working Group's efforts focused on:
+* Updating the [Metadata Assessment Zotero Library](https://www.zotero.org/groups/488224/metadata_assessment?).
+* Developing a survey about metadata assessment and metadata quality practices. 
+* Creating a [preliminary metadata analysis tools repository](https://github.com/DLFMetadataAssessment/Tools/wiki).
+* Updating the DLF Metadata Assessment Working Group's website.
 
-* Update structure of the Github site created for last year’s Environmental Scan to support expansion and ongoing work.
-* Create mechanism for people to submit updates & feedback.
-* Review and expand list of metadata assessment tools gathered as part of the Environmental Scan. 
-* Begin testing tools gathered as part of the Environmental Scan in order to eventually create a repository for metadata assessment tools.
-* A Metadata Application Profile Clearinghouse that can be used as a community repository for application profiles, mappings and guidelines for metadata.
-* Create a general framework document on how to assess metadata that can be used for the glam community.
-* Collaborate with other institutions on metadata assessment and analysis workshop work.
+<h2>Prior Efforts</h2>
 
-The work areas of the 2016 DLF Metadata Assessment Working Group were:
- 
-* performing an environmental scan on the topic of metadata quality and assessment;
-* gathering use cases and definitions for metadata assessment needs and realities;
-* creating a preliminary framework and set of recommendations on metadata assessment.
+See [the DLF Metadata Assessment Working Group's wiki page](https://wiki.diglib.org/Assessment:Metadata) for prior years' goals and deliverables.
+
+<h2>Project Limitations</h2>
+
+This resource provides metadata professionals with a plain language, high-level resource for assessing descriptive metadata in digital collections. 
+
+Due to the wide range of digital collections, users, and institutions, **this tool does not offer prescriptive recommendations for metadata.** 
+
+<h2>Future Efforts</h2>
+
+As our research efforts continue, we hope to expand our efforts to include related topics like:
+
+- Other kinds of metadata, such as structural, administrative, and technical metadata.
+- Assessment of the utility and importance of metadata.
+- The qualitative state of metadata currently used.
+- Metadata beyond the digital repository.
+
+As a member of the DLF community, we abide by the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
