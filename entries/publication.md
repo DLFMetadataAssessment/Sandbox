@@ -1,166 +1,68 @@
 ---
-title: Presentations and Publications of Note
+title: Publications and Presentations of Note
 layout: page
 permalink: Publications
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Resources">resources</a>->Presentations and Publications of Note
 
-<h1 id="top">Presentations and Publications of Note</h1>
+This work began in 2016 and was orignally published as part of an *Environmental Scan of Metadadata Assessement* ([Archived](assets/DLFMetadataAssessmentWorkingGroup2016.pdf)). We continue to actively collect citations of interest in the [Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates. This group intends to periodically review the citations for additions to the Publications and Presentations sections below.
 
-<p>This is a list of selected presentations and publications related to Metadata Assessment</p>
+<h3>Summary</h3>
 
-<p><a href="../img/DLFMetadataAssessmentWorkingGroup2016.pdf">Download a version of this resource as a PDF</a> (static snapshot from fall 2016)</p>
+The group initially surveyed more than 50 documents in 2016 produced as early as 2002, ranging from journal articles, white papers, and reports to blog posts and wikis. In 2019, the group reviewed more than 100 articles added to the Metadata Assessment Zotero Group since 2016 to determine if changes or additions should be made to this list of publications of note.
 
-<p><a href="https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit">Early draft and notes for the Environmental Scan</a> (not actively maintained)</p>
+Metadata assessment involves articulating conceptual criteria and frameworks as well as developing actionable methods to collect specific information about collections. The documents we surveyed tend to focus on the following themes:
 
-<h2 id="orgs">Presentations</h2>
+* Development of conceptual frameworks/models/metrics for defining metadata quality
+* Enrichment of existing datasets to meet quality metrics
+* Changes to metadata over time
+* Measurement of auditing quality
+* Considerations for shared metadata
 
-<h2 id="orgs">Publications</h2>
+Exploring what metadata quality means in large-scale aggregators, such as Europeana and DPLA, is another topic discussed in recent work.
 
-This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
+Bruce and Hillmann’s 2004 article, “The Continuum of Metadata Quality,” which defines a framework with seven categories of metadata quality (completeness, accuracy, conformance to expectations, logical consistency, accessibility, timeliness, provenance), is particularly noteworthy for influencing the subject’s subsequent exploration.
 
-ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
-<br><br>
-ALCTS/LITA Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)
-<br><br>
-Alemneh, Daniel Gelaw. Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There? 2015-09-30. [http://digital.library.unt.edu/ark:/67531/metadc725793/](http://digital.library.unt.edu/ark:/67531/metadc725793/)
-<br><br>
-Anaconda, [https://www.python.org/](https://www.python.org/)
-<br><br>
-Apache Spark, [http://spark.apache.org/](http://spark.apache.org/)
-<br><br>
-Averkamp, Shawn; Miller, Matt; Rubinow, Sara; Hadro, Josh. Measuring Your Metadata Preconference at Code4Lib 2016 (workshop information). [http://2016.code4lib.org/workshops/#Measuring-Your-Metadata](http://2016.code4lib.org/workshops/#Measuring-Your-Metadata)
-<br><br>
-Chapman, Joyce Celeste. “User Feedback and Cost/Value Analysis of Metadata Creation”. 2010-08-13. [http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf)
-<br><br>
-Charles, Valentine and Stiller, Juliane. Evaluation of Metadata Enrichment Practices in Digital Libraries: Steps towards Better Data Enrichments ([slides](http://swib.org/swib15/slides/charles_enrichment.pdf) and [video](https://www.youtube.com/watch?v=U90Ajgjk6ic&feature=youtu.be&list=PL7fMsenbLiQ0eKJtpz3NCv0937HPwbWqV) from SWIB 2015). 2015. 
-<br><br>
-Charles, Valentine and Stiller, Juliane. Evaluation of Metadata Enrichment Practices in Digital Libraries. 2015-12-18. [https://www.youtube.com/watch?v=U90Ajgjk6ic](https://www.youtube.com/watch?v=U90Ajgjk6ic) [https://docs.google.com/document/d/1Henbc0lQ3gerNoWUd5DcPnNq4YxOxDW5SQ7g4f26Py0/edit#heading=h.l2fg46yn5tej](https://docs.google.com/document/d/1Henbc0lQ3gerNoWUd5DcPnNq4YxOxDW5SQ7g4f26Py0/edit#heading=h.l2fg46yn5tej)
-<br><br>
-D3, [https://d3js.org/](https://d3js.org/)
-<br><br>
-Dalmau, Michelle and Riley, Jenn. Cushman Exposed! Exploiting Controlled Vocabularies to Enhance Browsing and Searching of an Online Photograph Collection. [http://www.slideshare.net/jenlrile/cushman-brownbag](http://www.slideshare.net/jenlrile/cushman-brownbag)
-<br><br>
-Digital Public Library of America: Bulk Metadata Download Feb 2015, [http://digital.library.unt.edu/ark:/67531/metadc502991/](http://digital.library.unt.edu/ark:/67531/metadc502991/)
-<br><br>
-DLF/NSDL Working Group on OAI PMH Best Practices. (2007). Best Practices for OAI PMH DataProvider Implementations and Shareable Metadata. Washington, D.C.: Digital Library Federation. [https://old.diglib.org/pubs/dlf108.pdf](https://old.diglib.org/pubs/dlf108.pdf)
-<br><br>
-DPLA Aggregation tools, [https://github.com/ncdhc/dpla-aggregation-tools](https://github.com/ncdhc/dpla-aggregation-tools)
-<br><br>
-Dublin Core Metadata Initiative. (2014). DCMI Task Group RDF Application Profiles. [http://wiki.dublincore.org/index.php/RDF_Application_Profiles](http://wiki.dublincore.org/index.php/RDF_Application_Profiles)
-<br><br>
-Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [http://dcpapers.dublincore.org/pubs/article/view/744](http://dcpapers.dublincore.org/pubs/article/view/744)
-<br><br>
-eCommons Metadata, [https://github.com/cmh2166/eCommonsMetadata](https://github.com/cmh2166/eCommonsMetadata)
-<br><br>
-Europeana Pro Data Quality Committee. [http://pro.europeana.eu/page/data-quality-committee](http://pro.europeana.eu/page/data-quality-committee)
-<br><br>
-Europeana Pro. [pro.europeana.eu](pro.europeana.eu)
-<br><br>
-Europeana. Report and Recommendations from the Task Force on Metadata Quality. 2015-05. [http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf)
-<br><br>
-Europeana. Task Force on Enrichment and Evaluation’s Final Report. 2015-10-29. [http://pro.europeana.eu/files/Europeana_Professional/EuropeanaTech/EuropeanaTech_taskforces/Enrichment_Evaluation/FinalReport_EnrichmentEvaluation_102015.pdf](http://pro.europeana.eu/files/Europeana_Professional/EuropeanaTech/EuropeanaTech_taskforces/Enrichment_Evaluation/FinalReport_EnrichmentEvaluation_102015.pdf)
-<br><br>
-Fischer, K. S. (2005). Critical Views of LCSH, 1990–2001: The Third Bibliographic Essay. Cataloging & Classification Quarterly, 41(1), 63–109. [https://doi.org/10.1300/J104v41n01_05](https://doi.org/10.1300/J104v41n01_05)
-<br><br>
-Glendon, Ivy. We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library. (slides presented at the ALCTS Metadata Interest Group Meeting at 2015 ALA Annual Conference) 2015. [http://connect.ala.org/node/243993](http://connect.ala.org/node/243993)
-<br><br>
-Google Analytics, [https://analytics.google.com/](https://analytics.google.com/)
-<br><br>
-Gueguen, Gretchen; Harper, Corey; Stanton, Chris. Perspectives on Data and Quality (slides from DPLAFest 2016) 2016. [http://schd.ws/hosted_files/dplafest2016/69/DPLAfest2016PerspectivesonDataandQuality.pdf](http://schd.ws/hosted_files/dplafest2016/69/DPLAfest2016PerspectivesonDataandQuality.pdf)
-<br><br>
-Guinchard, C. (2006). Dublin Core use in libraries: a survey. OCLC Systems & Services: International Digital Library Perspectives, 18(1), 11. [https://doi.org/http://dx.doi.org/10.1108/10650750210418190](https://doi.org/http://dx.doi.org/10.1108/10650750210418190)
-<br><br>
-Hadoop, [https://hadoop.apache.org/](https://hadoop.apache.org/)
-<br><br>
-Harlow, Christina and Wilson, Heather. Data Remediation: A View from the Trenches. (slides and resources from the 2015 LITA forum) 2015. [https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k](https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k)
-<br><br>
-Harlow, Christina. Get Your Recon (slides from Code4Lib 2016). 2016. [http://2016.code4lib.org/Get-Your-Recon](http://2016.code4lib.org/Get-Your-Recon)
-<br><br>
-Harlow, Christina. Metadata Quality Analysis. (GitHub Repository for Interactive Presentation at Tennessee Sharefest 2015) 2015. [https://github.com/cmh2166/ShareFest15MetadataQA](https://github.com/cmh2166/ShareFest15MetadataQA)
-<br><br>
-Harper, Corey. Can Metadata be Quantified? (slides presented at 2015 DPLAFest) 2015-04-18. [https://schd.ws/hosted_files/dplafest2015/c1/CanMetadataBeQuantifiedSlides.pdf](https://schd.ws/hosted_files/dplafest2015/c1/CanMetadataBeQuantifiedSlides.pdf)
-<br><br>
-Harper, Corey. Statistical DPLA: Metadata Counting and Word Analysis (session notes from DLF Forum 2015) 2015-10-28. [https://docs.google.com/document/d/1egAKg_Nw2kUvYJbuKOcpOGTTrQ4kIz4v5KYzGVLUEYw/edit#heading=h.c6q1qq3h66in](https://docs.google.com/document/d/1egAKg_Nw2kUvYJbuKOcpOGTTrQ4kIz4v5KYzGVLUEYw/edit#heading=h.c6q1qq3h66in)
-<br><br>
-Haslhofer, B., & Klas, W. (2010). A survey of techniques for achieving metadata interoperability. ACM Computing Surveys. [https://doi.org/10.1145/1667062.1667064](https://doi.org/10.1145/1667062.1667064)
-<br><br>
-Hydra Metadata Interest Group. [https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group](https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group)
-<br><br>
-Hydra Metrics Interest Group. [https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group](https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group)
-<br><br>
-Internet Archive Dataset Collection, [https://archive.org/details/datasets](https://archive.org/details/datasets)
-<br><br>
-Jackson, A., Han, M.-J., Groetsch, K., Mustafoff, M., & Cole, T. W. (2008). Dublin Core Metadata Harvested Through OAI-PMH. Journal of Library Metadata, 8(1), 5–21. [https://doi.org/10.1080/10911360802076682](https://doi.org/10.1080/10911360802076682)
-<br><br>
-Király, P. (2015, September). A Metadata Quality Assurance Framework. Retrieved from [http://pkiraly.github.io/metadata-quality-project-plan.pdf](http://pkiraly.github.io/metadata-quality-project-plan.pdf)
-<br><br>
-Koster, L. (2014, November 27). Analysing library data flows for efficient innovation. Retrieved from [http://commonplace.net/2014/11/library-data-flows](http://commonplace.net/2014/11/library-data-flows/)
-<br><br>
-Koster, Lukas. Datamazed: Analysing library dataflows, data manipulations and data redundancies. (slides presented at ELAG 2015) 2015. [http://www.slideshare.net/lukask/datamazed-with-notes](http://www.slideshare.net/lukask/datamazed-with-notes)
-<br><br>
-LODrefine, [https://github.com/sparkica/LODRefine](https://github.com/sparkica/LODRefine)
-<br><br>
-Loshin, D. (2013). Building a Data Quality Scorecard for Operational Data Governance. SAS Institute Inc. Retrieved from [http://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/building-data-quality-scorecard-for-operational-data-governance-106025.pdf](http://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/building-data-quality-scorecard-for-operational-data-governance-106025.pdf)
-<br><br>
-Ma, S., Lu, C., Lin, X., & Galloway, M. (2009). Evaluating the metadata quality of the IPL. Proceedings of the American Society for Information Science and Technology, 46(1), 1–17. [https://doi.org/10.1002/meet.2009.1450460249](https://doi.org/10.1002/meet.2009.145046024)
-<br><br>
-Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008). A Conceptual Framework for Metadata Quality Assessment. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Berlin, Germany. Retrieved from [http://dcpapers.dublincore.org/pubs/article/view/923](http://dcpapers.dublincore.org/pubs/article/view/923)
-<br><br>
-Metadata Breakers, [https://github.com/vphill/metadata_breakers](https://github.com/vphill/metadata_breakers)
-<br><br>
-Najjar, J., & Duval, E. (2006). Actual Use of Learning Objects and Metadata: An Empirical Analysis. TCDL Bulletin, 2(2). Retrieved from [http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html](http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html)
-<br><br>
-Neatrour, Anna and Myntti, Jeremy. Automating Controlled Vocabulary Reconciliation. (slides presented at DLF Forum 2015) 2015-10-26. [http://www.slideshare.net/aneatrour/automating-controlled-vocabulary-reconciliation](http://www.slideshare.net/aneatrour/automating-controlled-vocabulary-reconciliation)
-<br><br>
-Noh, Y. (2011). A study on metadata elements for web-based reference resources system developed through usability testing. Library Hi Tech, 29(2), 24. [https://doi.org/http://dx.doi.org/10.1108/07378831111138161](https://doi.org/http://dx.doi.org/10.1108/07378831111138161)
-<br><br>
-Ochoa, X., & Duval, E. (2009). Automatic evaluation of metadata quality in digital repositories. International Journal on Digital Libraries, 10(67). [https://doi.org/10.1007/s00799-009-0054-4](https://doi.org/10.1007/s00799-009-0054-4)
-<br><br>
-Olson, J. E. (2003). Data Quality: The Accuracy Dimension. Morgan Kaufmann. Retrieved from [https://books.google.com/books/about/Data_Quality.html?id=x8ahL57VOtcC](https://books.google.com/books/about/Data_Quality.html?id=x8ahL57VOtcC)
-<br><br>
-OpenRefine, [http://openrefine.org](http://openrefine.org)
-<br><br>
-Park, E. G. (2007). Building interoperable Canadian architecture collections: initial metadata assessment. The Electronic Library, 25(2), 18. [https://doi.org/http://dx.doi.org/10.1108/02640470710741331](https://doi.org/http://dx.doi.org/10.1108/02640470710741331)
-<br><br>
-Pirmann, C. (2009, Spring). Alternative Subject Languages for Cataloging. Retrieved March 24, 2016, from [http://courseweb.lis.illinois.edu/~pirmann2/LIS577/toolbox/langhead.html](http://courseweb.lis.illinois.edu/~pirmann2/LIS577/toolbox/langhead.html)
-<br><br>
-Plot.ly, [https://plot.ly](https://plot.ly/)
-<br><br>
-Python pandas, [http://pandas.pydata.org](http://pandas.pydata.org/)
-<br><br>
-R Studio, [https://www.rstudio.com](https://www.rstudio.com/)
-<br><br>
-R, [https://www.r-project.org](https://www.r-project.org)
-<br><br>
-Sicilia, M. A., Garcia, E., Pages, C., Martinez, J. J., & Gutierrez, J. M. (2005). Complete metadata records in learning object repositories: some evidence and requirements. ACM Digital Library, 1(4), 14. [https://doi.org/10.1504/IJLT.2005.007152](https://doi.org/10.1504/IJLT.2005.007152)
-<br><br>
-Simon, A., Vila Suero, D., Hyvönen, E., Guggenheim, E., Svensson, L. G., Freire, N., … Alexiev, V. (2014). EuropeanaTech Task Force on a Multilingual and Semantic Enrichment Strategy: final report (Task Force Report) (p. 44). Europeana. Retrieved from [http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy](http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy)
-<br><br>
-SPSS, [http://www-01.ibm.com/software/analytics/spss](http://www-01.ibm.com/software/analytics/spss)
-<br><br>
-Tableau, [http://www.tableau.com](http://www.tableau.com)
-<br><br>
-Tani, A., Candela, L., & Castelli, D. (2013). Dealing with metadata quality: The legacy of digital library efforts. Information Processing & Management, 49(6), 1194–1205. [https://doi.org/10.1016/j.ipm.2013.05.003](https://doi.org/10.1016/j.ipm.2013.05.003)
-<br><br>
-Tarver, H., Phillips, M., Zavalina, O., & Kizhakkethil, P. (2015). An Exploratory Analysis of Subject Metadata in the Digital Public Library of America. In Proceedings from the International Conference on Dublin Core and Metadata Applications 2015. Sao Paolo, Brazil.
-<br><br>
-Task Force on Cost/Value Assessment of Bibliographic Control. Final Report. 2010-06-18. [http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf](http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf)
-<br><br>
-UNT Libraries Metadata Edit Dataset, [http://digital.library.unt.edu/ark:/67531/metadc304852](http://digital.library.unt.edu/ark:/67531/metadc304852)
-<br><br>
-Ward, J. H. (2002, November). A Quantitative Analysis of Dublin Core Metadata Element Set (DCMES) Usage in Data Providers Registered with the Open Archives Initiative (OAI) (Master’s paper). School of Information and Library Science of the University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA. Retrieved from [http://ils.unc.edu/MSpapers/2816.pdf](http://ils.unc.edu/MSpapers/2816.pdf)
-<br><br>
-Weidner, Andrew and Wu, Annie. Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston. (presentation from DCMI Global Meetings and Conferences, DC-2015) 2015. [http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339](http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)
-<br><br>
-Zavalina, O. L. (2014). Complementarity in Subject Metadata in Large-Scale Digital Libraries: A Comparative Analysis. Cataloging & Classification Quarterly, 52(1), 77–89.
-<br><br>
-Zavalina, O. L., Kizhakkethil, P., Alemneh, D. G., Phillips, M. E., & Tarver, H. (2015). Building a Framework of Metadata Change to Support Knowledge Management. Journal of Information & Knowledge Management, 14(01). [https://doi.org/10.1142/S0219649215500057](https://doi.org/10.1142/S0219649215500057)
+In 2013, Hillmann and Bruce revisited their original framework in the context of the linked open data environment, highlighting additional considerations such as licensing, correct/consistent data modeling, and the implications of linked data technology on definitions of metadata quality.
+
+A common theme across the publications we reviewed is the subjective nature of “quality,” since its definition is dependent upon local context and content as well as institutional goals. According to Hillmann and Bruce (2013), conceptual criteria are “the lenses that help us know quality when we see it.” Through building a community of practice for assessing metadata quality, we will be better positioned to have a shared vision, one that provides for the sustainability of our resources and meets the needs of our users and systems.
 
 <a href="#top">Return to top</a>
 
-<h2 id="contributors">2020 Contributors</h2>
+<h3>Publications of Note</h3>
+
+We have identified a subselection of these articles, listed below, which we recommend as good starting points for librarians interested in learning about metadata assessment. The articles review foundational concepts, present sound frameworks for analysis, cover particular common aspects of assessment, and/or have been influential in other research.
+
+* Amrapali, Zaveri, et al. (2016). “Quality assessment for Linked Data: A Survey.” Semantic Web, 7(1), 63-93.
+* Bruce, Thomas R. & Hillmann, Diane I. (2004). The Continuum of Metadata Quality
+* Bruce, Thomas R. & Hillmann, Diane I. (2013). Metadata Quality in a Linked Data Context (blog post).
+* DAMA UK Working Group on Data Quality Dimensions. (2013). The Six Primary Dimensions for Data Quality Assessment. DAMA UK. URL:  [https://web.archive.org/web/20190725222019/https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf](https://web.archive.org/web/20190725222019/https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf)
+* Europeana Task Force on Metadata Quality. (2013). Report and Recommendations from the Task Force on Metadata Quality. URL: [https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/metadata-quality-report.pdf](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/metadata-quality-report.pdf)
+* Gavrilis, Dimitris, et al. (2015). “Measuring Quality in Metadata Repositories.” In S. Kapidakis, C. Mazurek, & M. Werla (Eds.), Research and Advanced Technology for Digital Libraries: 19th International Conference on Theory and Practice of Digital Libraries, TPDL 2015, Poznań, Poland, September 14-18, 2015, Proceedings.
+* Gueguen, Gretchen. (2019). “Metadata Quality at Scale: Metadata quality control at the Digital Public Library of America” Journal of Digital Media Management. 7(2), 115-126.
+* Harper, Corey A. (2016). “Metadata Analytics, Visualization, and Optimization: Experiments in statistical analysis of the Digital Public Library of America (DPLA).” Code{4}lib Journal. 33. URL: [http://journal.code4lib.org/articles/11752](http://journal.code4lib.org/articles/11752)
+* Park, Jung-ran, and Tosaka Yuji. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.”Cataloging & Classification Quarterly 48, no. 8 (2010): 696–715.
+* Reiche, Konrad Johannes. (2013). Assessment and Visualization of Metadata Quality for Open Government Data. Master’s Thesis, Freie Universität Berlin. URL:  [http://www.inf.fu-berlin.de/inst/ag-se/theses/Reiche13-metadata-quality.pdf](http://www.inf.fu-berlin.de/inst/ag-se/theses/Reiche13-metadata-quality.pdf)
+* Stvilia, B., Gasser, L. (2008). Value based metadata quality assessment. Library & Information Science Research, 30(1), 67-74. URL: [http://dx.doi.org/10.1016/j.lisr.2007.06.006](http://dx.doi.org/10.1016/j.lisr.2007.06.006) (Full paper: [http://myweb.fsu.edu/bstvilia/papers/stvilia_value_based_metadata_p.pdf](http://myweb.fsu.edu/bstvilia/papers/stvilia_value_based_metadata_p.pdf))
+* Zavalina, Oksana; Kizhakkethil, Priya; Alemneh, Daniel Gelaw; Phillips, Mark Edward; & Tarver, Hannah. (2015). Building a Framework of Metadata Change to Support Knowledge Management. URL: [http://digital.library.unt.edu/ark:/67531/metadc505014](http://digital.library.unt.edu/ark:/67531/metadc505014)
+
+<a href="#top">Return to top</a>
+
+<h3 id="orgs">Presentations of Note</h3>
+
+* Averkamp, Shawn, et al. "Measuring Your Metadata Preconference." Code4Lib Conference, 2016, [Workshop Information](https://2016.code4lib.org/workshops/Measuring-Your-Metadata).
+* Charles, Valentine, and Juliane Stiller. "Evaluation of Metadata Enrichment Practices in Digital Libraries: Steps towards Better Data Enrichments." SWIB, 2015, [Slides](http://swib.org/swib15/slides/charles_enrichment.pdf), [Video](https://youtu.be/U90Ajgjk6ic?list=PL7fMsenbLiQ0eKJtpz3NCv0937HPwbWqV).
+* Dalmau, Michelle, and Jenn Riley. "Cushman Exposed! Exploiting Controlled Vocabularies to Enhance Browsing and Searching of an Online Photograph Collection." Digital Library Program Brown Bag Presentation, 17 May 2004, [Slides](http://www.slideshare.net/jenlrile/cushman-brownbag).
+* Glendon, Ivy. "We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library." American Library Association Annual Conference, 2015, [Slides](http://connect.ala.org/node/243993).
+* Gueguen, Gretchen, et al. "Perspectives on Data and Quality." DPLAFest, 2016, [Session Information](https://dplafest2016.sched.org/event/6Fou/perspectives-on-data-and-quality), [Slides](https://schd.ws/hosted_files/dplafest2016/69/DPLAfest2016PerspectivesonDataandQuality.pdf).
+* Harlow, Christina, and Heather Wilson. "Data Remediation: A View from the Trenches." LITA Forum, 2015, [Slides and Resources](https://goo.gl/MFZP1t).
+* Harlow, Christina. "Get Your Recon." Code4Lib Conference, 8 Mar. 2016, [Slides](http://2016.code4lib.org/Get-Your-Recon).
+* Harlow, Christina. "Metadata Quality Analysis." Tennessee SHAREfest, 2015, [GitHub Repository for Interactive Presentation](https://github.com/cmh2166/ShareFest15MetadataQA).
+* Harper, Corey. "Can Metadata be Quantified?" DPLA Fest, 18 Apr. 2015, [Slides](https://schd.ws/hosted_files/dplafest2015/c1/CanMetadataBeQuantifiedSlides.pdf), [Visual](http://nbviewer.ipython.org/github/chrpr/dpla-analytics/blob/master/nltk/demo.ipynb).
+* Harper, Corey. "Statistical DPLA: Metadata Counting and Word Analysis." DLF Forum, 2015, [Session Notes](https://docs.google.com/document/d/1egAKg_Nw2kUvYJbuKOcpOGTTrQ4kIz4v5KYzGVLUEYw/edit).
+* Koster, Lukas. "Datamazed." ELAG, 2015, [Slides](http://www.slideshare.net/lukask/datamazed-with-notes), [Notes on Presentation](https://docs.google.com/document/d/1Cm3gFdiHJIV3ptiS6i4z874QebkqMJd_lPMIAcyE4eQ/edit#heading=h.g4usus9cnso5)
+* Neatrour, Anna, and Jeremy Myntti. "Automating Controlled Vocabulary Reconciliation." DLF Forum, 2015, [Slides](http://www.slideshare.net/aneatrour/automating-controlled-vocabulary-reconciliation)
+* Weidner, Andrew, and Annie Wu. "Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston." International Conference on Dublin Core and Metadata Applications DC-2015, 2015, [Slides and paper](http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339).
 
 <a href="#top">Return to top</a>
