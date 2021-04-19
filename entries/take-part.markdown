@@ -5,13 +5,10 @@ permalink: Take-Part
 ---
 {::options parse_block_html="true" /}
 
-Linked from main page. Will include schedule.
+The DLF AIG Metadata Working Group is open to anyone interested in collaborating on guidelines, best practices, tools, and workflows for the assessment of metadata used by and for digital libraries and repositories. See the [Projects](https://dlfmetadataassessment.github.io/Sandbox/Projects) page for examples of current projects to join, such as updating this website or reviewing notable presentations and publications.
 
-Old text below:
+The group holds working meetings from January through the DLF Forum in November. These 45-minute meetings typically take place every other Thursday, beginning at 10:15 AM Pacific/11:15 AM Mountain/12:15 PM Central/1:15 PM Eastern. Subgroups may hold additional meetings as needed.
 
-Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Visit our [DLF wiki page](https://wiki.diglib.org/Assessment:Metadata) to find out more about the group or get involved.
+To join the group, visit our [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group).
 
-We want this website and the information contained therein to be a living document. Working Group members will continue to add resources, recommendations, and information to this website as well as to our working documents. If you want to make a comment, suggestion, correction or update, you can use the following form:
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1SG3Yv3WYotd8QlC_e1jp6q0KMQ836LLHjBojXwsQJwiZGQ/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+To recommend a relevant presentation or publication, please add the citation to our [Metadata Assessment Zotero Group](https://www.zotero.org/groups/488224/metadata_assessment).
