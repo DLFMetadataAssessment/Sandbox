@@ -10,5 +10,4 @@ Here, you can learn more about:
 * [This group](/About).
 * [The projects that this group has undertaken or completed](/Projects).
 * [How to take part](/Take-Part).
-* [The collaborations we've taken part in](/Collaborations).
 * [The people who have made this working group a success](/Contributors).
