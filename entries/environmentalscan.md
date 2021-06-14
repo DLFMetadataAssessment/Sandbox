@@ -5,9 +5,9 @@ permalink: EnvironmentalScan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
+<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
-<h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
+<h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
 <p>This page was last updated on October 13, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
 
