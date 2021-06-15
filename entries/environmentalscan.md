@@ -5,9 +5,9 @@ permalink: EnvironmentalScan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
+<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
-<h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
+<h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
 <p>This page was last updated on October 13, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
 
@@ -35,7 +35,7 @@ As of 2016, a wide range of groups are addressing issues related to metadata and
 
 <h3>Europeana</h3>
 
-[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of EDM data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
+[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of Europeana Data Model (EDM) data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
 
 [Europeana’s Report and Recommendations from the Task Force on Metadata Quality](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf) is an essential read, outlining broad issues related to metadata quality as well as specific recommendations for the Europeana community. This report defines good metadata quality as “1. Resulting from a series of trusted processes 2. Findable 3. Readable 4. Standardised 5. Meaningful to audiences 6. Clear on re-use 7. Visible” (p. 3). In addition, the report explores hindrances to good metadata quality: lack of foresight for online discovery, treating metadata as an afterthought, lack of funding and resources, describing digitized items with little information, and not understanding the harvesting requirements.
 
