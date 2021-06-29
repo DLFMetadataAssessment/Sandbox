@@ -5,9 +5,9 @@ permalink: EnvironmentalScan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan
+<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
-<h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
+<h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
 <p>This page was last updated on October 13, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
 
@@ -35,7 +35,7 @@ As of 2016, a wide range of groups are addressing issues related to metadata and
 
 <h3>Europeana</h3>
 
-[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of EDM data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
+[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of Europeana Data Model (EDM) data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
 
 [Europeana’s Report and Recommendations from the Task Force on Metadata Quality](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf) is an essential read, outlining broad issues related to metadata quality as well as specific recommendations for the Europeana community. This report defines good metadata quality as “1. Resulting from a series of trusted processes 2. Findable 3. Readable 4. Standardised 5. Meaningful to audiences 6. Clear on re-use 7. Visible” (p. 3). In addition, the report explores hindrances to good metadata quality: lack of foresight for online discovery, treating metadata as an afterthought, lack of funding and resources, describing digitized items with little information, and not understanding the harvesting requirements.
 
@@ -45,7 +45,7 @@ The [Task Force on Enrichment and Evaluation’s Final Report](http://pro.europe
 
 _Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.duraspace.org/display/samvera/Samvera)._ The [Hydra Metadata Interest Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metadata+Interest+Group) has multiple subgroups that have developed best practices for [technical metadata](https://wiki.lyrasis.org/display/samvera/Technical+Metadata+Application+Profile), [rights metadata](https://wiki.lyrasis.org/display/samvera/Rights+Metadata+Recommendation), [Segment of a File structural metadata](https://wiki.lyrasis.org/display/samvera/Segment+of+a+File+Structural+Metadata+Working+Group), and [Applied Linked Data](https://wiki.lyrasis.org/display/samvera/Samvera+Applied+Linked+Data+Interest+Group). The best practices and metadata application profiles developed by these groups can help in the assessment of metadata quality, but the work of these groups has not yet explicitly included metadata assessment.  The [Hydra Metrics Interest Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metrics+Interest+Group) is involved in the use of scholarly and web metrics to assess the performance of various aspects of Hydra instances.
 
-<h3>SAA</h3>
+<h3>Society of American Archivists (SAA)</h3>
 
 Although very little directly related to metadata assessment is available from the SAA, the 2010 presentation by Joyce Celeste Chapman, [“User Feedback and Cost/Value Analysis of Metadata Creation”](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf) contains many findings that merit consideration. This project studied the information seeking behavior of researchers and regarded successful searches as indicative of the value of metadata. The fields used most often by researchers were identified and the time needed to create metadata for those fields was analyzed in order to determine if the time spent creating metadata was related to the frequency of researcher use.
 
@@ -79,8 +79,7 @@ This joint committee has recently drafted ["Principles for Evaluating Metadata S
 
 <h2 id="presentations">Presentations</h2>
 
-Presentations reviewed during the 2016 environmental scan are organized below in chronological order. If you have a presentation or description to add, please see the <a href="http://dlfmetadataassessment.github.io/Take-Part">Take Part</a> section - and thank you!
-
+Presentations reviewed during the 2016 environmental scan are organized below in chronological order. 
 <h3>2003</h3>
 
 <h4>DLF Forum</h4>
