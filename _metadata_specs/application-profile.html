@@ -1,0 +1,17 @@
+---
+layout: default
+title: Metadata Specs - Browse by Type - Metadata Application Profiles
+---
+
+<h1>Metadata Specs: Browse by Institution - Metadata Application Profiles</h1>
+
+<ul>
+    {% for spec in site.metadata_specs %}
+        {% if spec.type == "application-profile" %}
+            <li>
+                <h2><a href="{{ spec.url }}">{{ spec.title }}</a></h2>
+                <p>{{ spec.description }}</p>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

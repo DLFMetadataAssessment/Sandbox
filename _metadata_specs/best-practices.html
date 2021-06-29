@@ -1,0 +1,17 @@
+---
+layout: default
+title: Metadata Specs - Browse by Type - Best Practices
+---
+
+<h1>Metadata Specs: Browse by Institution - Best Practices</h1>
+
+<ul>
+    {% for spec in site.metadata_specs %}
+        {% if spec.type == "best-practices" %}
+            <li>
+                <h2><a href="{{ spec.url }}">{{ spec.title }}</a></h2>
+                <p>{{ spec.description }}</p>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

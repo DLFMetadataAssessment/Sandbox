@@ -9,7 +9,11 @@ kramdown:
   input: GFM
 relative_permalinks: false
 collections:
-- entries
+  metadata_specs:
+    output: true
+  entries:
+  institutions:
+    output: true
 sass:
   sass_dir: _sass
   style: :compressed
