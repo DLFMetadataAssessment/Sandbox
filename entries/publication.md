@@ -32,7 +32,7 @@ A common theme across the publications we reviewed is the subjective nature of �
 
 <h3>Publications of Note</h3>
 
-We have identified a subselection of these articles, listed below, which we recommend as good starting points for librarians interested in learning about metadata assessment. The articles review foundational concepts, present sound frameworks for analysis, cover particular common aspects of assessment, and/or have been influential in other research.
+We have identified a sub-selection of these articles, listed below, which we recommend as good starting points for librarians interested in learning about metadata assessment. The articles review foundational concepts, present sound frameworks for analysis, cover particular common aspects of assessment, and/or have been influential in other research.
 
 * Amrapali, Zaveri, Lehmann, Jens, Rula, Anisa, Maurino, Andrea, Pietrobon, Ricardo, and Auer, Sören. “Quality Assessment for Linked Data: A Survey.” Semantic Web 7, no. 1 (2016): 63–93.
 * Bruce, Thomas R., and Diane I. Hillmann. “Metadata Quality in a Linked Data Context.” VOXPOPULII (blog), January 24, 2013. [https://blog.law.cornell.edu/voxpop/2013/01/24/metadata-quality-in-a-linked-data-context/](https://blog.law.cornell.edu/voxpop/2013/01/24/metadata-quality-in-a-linked-data-context/).
