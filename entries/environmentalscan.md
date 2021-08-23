@@ -243,7 +243,7 @@ The documentation presents general information about each tool, such as its purp
 | Type | Type of tool assessed | programming language or library, stand-alone script, tool, tools package, dataset, computing framework |
 | URL | General URL for tool or tool information | URL |
 | Abstract | Brief summary of the tool, its significant characteristics and relevant considerations | Free text |
-| Other | Additional notes field. |Free text |
+| Other | Additional notes field |Free text |
 | Tool Creator/Maintainer | Individual or organization responsible for tool creation and/or maintenance | Free text |
 | Source code / download URL | Destination for source code or download | URL |
 | Documentation | Destination for tool documentation | URL |
