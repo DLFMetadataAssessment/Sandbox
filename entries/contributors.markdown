@@ -5,203 +5,167 @@ permalink: Contributors
 ---
 {::options parse_block_html="true" /}
 
-### 2019
+### Leadership
+
+This is the list of contributors who lead working during 2020.
+
+* Madison Chartier (co-facilitator, Metadata Working Group)
+* Hannah Tarver (co-facilitator, Metadata Working Group)
+* Kate Flynn (leader, Website subgroup)
+* Annamarie Klose (leader, Tools subgroup)
+* Sara Rubinow (co-leader, Assessment Interest Group)
+* Rachel Wittmann (leader, Metadata Quality Benchmarks subgroup)
+
+
+### Members
 
 This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
 
-* Shaun Akhtar
-* Linda Ballinger (leader, Cultural Assessment Interest Working Group, Inclusive Metadata Task Force)
-* Jeremy Bartczak (co-leader, Tools subgroup)
-* Liz Bodian
-* Michael Bolam
-* Michael Campos-Quinn
-* Scott Carlson
-* Madison Chartier
-* Anastasia Chiu
-* Jane Darcovich
-* Danoosh Davoodi
-* Megan De Armond
-* Maggie Dickson
-* Anne Donlon
-* Felicity Dykas
-* Leanne Finnegan
-* Kate Flynn (co-facilitator; leader, Website subgroup)
-* Steven Gentry
-* Katrina Gertz
-* Kathryn Gronsbell
-* Gretchen Gueguen (leader, Environmental Scan subgroup)
-* Meredith Hale
-* Julie Hardesty
-* Teresa Hebron
-* Christine Kim
-* Deb Kulczak
-* Tricia Lampron
-* Sarah Lindsey
-* Xiaoli Ma
-* Mandy Mastrovita
-* Amelia Mowry (co-leader, Tools subgroup)
-* Anna Neatrour (co-facilitator)
-* Wen Nie Ng
-* Allison Nolan
-* Charity Park
-* Andrea Payant
-* Susan Ponischil
-* Alexandra Provo
-* Sara Rubinow
-* Hannah Scates Kettler
-* Jacob Shelby
-* Nicole Shibata
-* Gina Strack
-* Hannah Tarver
-* Tammy Troup
-* Luiza Wainer
-* Anne Washington
-* Rachel White
-* Manda Wise Pizzollo
-* Rachel Wittmann (leader, Benchmarks subgroup)
-
-
-### 2018
-
-This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
-
-* Shaun Akhtar
-* Jeremy Bartczak (leader, Tools subgroup)
-* Liz Bodian
-* Scott Carlson
-* Anastasia Chiu
-* Dennis Christman
-* Jenn Colt
-* Maggie Dickson
-* Leanne Finnegan
-* Kate Flynn (co-facilitator)
-* Kate Gerrity
-* Anna Goslen
-* Paloma Graciani-Picardo
-* Kathryn Gronsbell (leader, Website subgroup)
-* Gretchen Gueguen (leader, Metadata Application Profile Clearinghouse Project subgroup)
-* Julie Hardesty
-* Teresa Hebron
-* Daniel Jergovic
-* Andrea Leonard (leader, Benchmarks subgroup)
-* Lisa McFall
-* Bill McMillin
-* Paige Morfitt
-* Amelia Mowry (leader, Tools subgroup)
-* Anna Neatrour (co-facilitator; leader, Workshop subgroup; leader, Metadata Application Profile Clearinghouse Project subgroup)
-* Andrea Payant
-* Suzanne Pilsk
-* Alexandra Provo
-* Johanna Radding
-* Bryan Ricupero
-* Ken Rockwell
-* Sara Rubinow
-* Amy Rudersdorf
-* Hannah Scates Kettler
-* Jacob Shelby
-* Laura Smart
-* Hannah Tarver
-* P. Thomas Lacey
-* Clara Turp
-* Luiza Wainer
-* Andy Weidner
-* Manda Wise Pizzollo
-* Rachel Wittmann (leader, Benchmarks subgroup)
-
-### 2017
-
-This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
-
-* Laura Akerman (member, Tools subgroup)
-* Shaun Akhtar
-* Damian Biagi
-* Scott Carlson (leader, Metadata Application Profile Clearinghouse Project subgroup; member, Metadata Analysis Workshop subgroup; member, Website subgroup)
-* Maggie Dickson (member, Framework subgroup)
-* Kate Flynn (co-facilitator; member, Metadata Analysis Workshop subgroup; leader, Tools subgroup; member, Website subgroup)
-* Paloma Graciani
-* Kathryn Gronsbell (member, Framework subgroup)
-* Gretchen Gueguen (leader, Metadata Analysis Workshop subgroup; member, Metadata Application Profile Clearinghouse Project subgroup)
-* Julie Hardesty (member, Website subgroup)
-* Christina Harlow (co-facilitator; member, Metadata Analysis Workshop subgroup; member, Website subgroup)
-* Andrea Leonard
-* Bill McMillin (member, Website subgroup)
-* Darnelle Melvin
-* Ryan Mendenhall
-* Amelia Mowry (member, Tools subgroup)
-* Anna Neatrour (member, Framework subgroup; member, Website subgroup)
-* Joy P.
-* Diana Page
-* Suzanne Pilsk
-* Susan Ponischil
-* Sara Rubinow (leader, Framework subgroup; member, Website subgroup)
-* Bethany Scott (member, Framework subgroup)
-* Jeanette Sewell
-* Jacob Shelby (member, Tools subgroup)
-* Laura Smart (member, Metadata Analysis Workshop subgroup)
-* Ayla Stein
-* Hannah Stitzlein (member, Metadata Analysis Workshop subgroup)
-* Hannah Tarver
-* Becky Wolsk
-
-### 2016
-
-* Janet Ahrberg
-* Shaun Akhtar
-* Filipe Bento
-* Molly Bragg
-* Anne Caldwell
-* Joyce Chapman
-* Tracy Chui
-* Kevin Clair
-* Robin Desmeules
-* Maggie Dickson
-* Laura Drake Davis
-* Jennifer Eustis
-* Arcadia Falcone
-* Sharon Farnel
-* Ethan Fenichel
-* Kate Flynn
-* Patrick Galligan
-* Jennifer Gilbert
-* Ivey Glendon
-* Anna Goslen
-* Peggy Griesinger
-* Kathryn Gronsbell
-* Wendy Hagenmaier
-* Christina Harlow
-* Violeta Ilik
-* Dana Jemison
-* Lukas Koster
-* Liz Kupke
-* Andrea Leonard
-* Karen Majewicz
-* Bill McMillin
-* Timothy Ryan Mendenhall
-* Amelia Mowry
-* Jeremy Myntti
-* Anna Neatrour
-* Kayla Ondracek
-* Bria Parker
-* Sam Popowich
-* Sarah Potvin
-* Erik Radio
-* Hilary Robbeloth
-* Wendy Robertson
-* Domenic Rosati
-* Jason Roy
-* Sara Rubinow
-* Melissa Rucker
-* Sibyl Schaefer
-* Matt Schultz
-* Sarah Beth Seymore
-* Debra Shapiro
-* Amber Sherman
-* Laura Smart
-* Ayla Stein
-* Kathryn Stine
-* Hannah Tarver
-* Rachel Trent
-* Friday Valentinev
-* Liz Woolcott
-* Jennifer Young
-* Angelina Zaytsev
+* Janet Ahrberg (2016)
+* Laura Akerman (2017)
+* Shaun Akhtar (2016-2020)
+* Linda Ballinger (2020)
+* Jeremy Bartczak (2018-2019)
+* Filipe Bento (2016)
+* Damian Biagi (2017)
+* Liz Bodian (2018-2019)
+* Michael Bolam (2019-2020)
+* Jennifer Bradshaw (2020)
+* Molly Bragg (2016)
+* Anne Caldwell (2016)
+* Michael Campos-Quinn (2019)
+* Scott Carlson (2017-2019)
+* Joyce Chapman (2016)
+* Madison Chartier (2019-2020)
+* Anastasia Chiu (2018-2019)
+* Dennis Christman (2018)
+* Tracy Chui (2016)
+* Kevin Clair (2016)
+* Jenn Colt (2018)
+* Jane Darcovich (2019-2020)
+* Danoosh Davoodi (2019)
+* Megan De Armond (2019)
+* Robin Desmeules (2016)
+* Graham Dethmers (2020)
+* Maggie Dickson (2016-2019)
+* Anne Donlon (2019)
+* Laura Drake Davis (2016)
+* Felicity Dykas (2019-2020)
+* David Erlandson (2020)
+* Jennifer Eustis (2016)
+* Arcadia Falcone (2016)
+* Sharon Farnel (2016)
+* Ethan Fenichel (2016)
+* Leanne Finnegan (2018-2019)
+* Kate Flynn (2016-2020)
+* Patrick Galligan (2016)
+* Steven Gentry (2019-2020)
+* Jeff Gerhard (2020)
+* Kate Gerrity (2018)
+* Katrina Gertz (2019-2020)
+* Jennifer Gilbert (2016)
+* Ivey Glendon (2016)
+* Scott Goldstein (2020)
+* Anna Goslen (2016, 2018)
+* Paloma Graciani (2017)
+* Paloma Graciani-Picardo (2018)
+* Peggy Griesinger (2016)
+* Kathryn Gronsbell (2016-2020)
+* Gretchen Gueguen (2017-2020)
+* Gabi Gulya (2020)
+* Wendy Hagenmaier (2016)
+* Meredith Hale (2019-2020)
+* Julie Hardesty (2018-2019)
+* Christina Harlow (2016-2017)
+* Teresa Hebron (2018-2020)
+* Jeannette Ho (2020)
+* Violeta Ilik (2016)
+* Rachel Jaffe (2020)
+* Dana Jemison (2016)
+* Daniel Jergovic (2018)
+* gwyn johns (2020)
+* Christine Kim (2019)
+* Heajin Kim (2020)
+* Annamarie Klose (2020)
+* Lukas Koster (2016)
+* Deb Kulczak (2019)
+* Liz Kupke (2016)
+* Tricia Lampron (2019-2020)
+* Andrea Leonard (2016-2018)
+* Sarah Lindsey (2019)
+* Xiaoli Ma (2019-2020)
+* Karen Majewicz (2016)
+* Greer Martin (2020)
+* Mandy Mastrovita (2019-2020)
+* Lisa McFall (2018)
+* Bill McMillin (2016-2018)
+* Darnelle Melvin (2017)
+* Ryan Mendenhall (2017)
+* Jane Monson (2020)
+* Paige Morfitt (2018, 2020)
+* Amelia Mowry (2016-2020)
+* Jeremy Myntti (2016)
+* Anna Neatrour (2016-2020)
+* Wen Nie Ng (2019-2020)
+* Allison Nolan (2019)
+* Kayla Ondracek (2016)
+* Joy P. (2017)
+* Diana Page (2017)
+* Charity Park (2019)
+* Bria Parker (2016)
+* Rebecca Pattillo (2020)
+* Andrea Payant (2018-2020)
+* Carolyn Pecoskie (2020)
+* Suzanne Pilsk (2017-2018)
+* Susan Ponischil (2017, 2019)
+* Sam Popowich (2016)
+* Sarah Potvin (2016)
+* Alexandra Provo (2018-2020)
+* Johanna Radding (2018)
+* Erik Radio (2016, 2020)
+* Bryan Ricupero (2018)
+* Benjamin Riesenberg (2020)
+* Hilary Robbeloth (2016)
+* Wendy Robertson (2016)
+* Ken Rockwell (2018)
+* Domenic Rosati (2016)
+* Staci Ross (2020)
+* Jason Roy (2016)
+* Sara Rubinow (2016-2020)
+* Melissa Rucker (2016)
+* Amy Rudersdorf (2018)
+* Mandy Ryan (2020)
+* Timothy Ryan Mendenhall (2016)
+* Hannah Scates-Kettler (2018-2019)
+* Sibyl Schaefer (2016)
+* Matt Schultz (2016)
+* Bethany Scott (2017)
+* Jeanette Sewell (2017)
+* Sarah Beth Seymore (2016)
+* Debra Shapiro (2016)
+* Jacob Shelby (2017-2020)
+* Amber Sherman (2016)
+* Nicole Shibata (2019)
+* Laura Smart (2016-2018)
+* Ayla Stein (2016-2017)
+* Kathryn Stine (2016)
+* Hannah Stitzlein (2017)
+* Gina Strack (2019-2020)
+* Martha Stuit (2020)
+* Hannah Tarver (2016-2020)
+* P. Thomas Lacey (2018)
+* Rachel Trent (2016)
+* Tammy Troup (2019-2020)
+* Clara Turp (2018)
+* Friday Valentinev (2016)
+* Luiza Wainer (2018-2019)
+* Anne Washington (2019)
+* Andy Weidner (2018)
+* Alexander Whelan (2020)
+* Rachel White (2019-2020)
+* Manda Wise Pizzollo (2018-2019)
+* Rachel Wittmann (2018-2020)
+* Becky Wolsk (2017)
+* Liz Woolcott (2016)
+* Jennifer Young (2016)
+* Angelina Zaytsev (2016)
