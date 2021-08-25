@@ -49,7 +49,7 @@ _Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.
 
 Although very little directly related to metadata assessment is available from the SAA, the 2010 presentation by Joyce Celeste Chapman, [“User Feedback and Cost/Value Analysis of Metadata Creation”](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf) contains many findings that merit consideration. This project studied the information seeking behavior of researchers and regarded successful searches as indicative of the value of metadata. The fields used most often by researchers were identified and the time needed to create metadata for those fields was analyzed in order to determine if the time spent creating metadata was related to the frequency of researcher use.
 
-<h3>ALA ALCTS "Big Heads"</h3>
+<h3>ALA ALCTS (American Library Association Association for Library Collection & Technical Services)[now ALA CORE] "Big Heads"</h3>
 *(i.e. "ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)")*
 
 The [Final Report of the Task Force on Cost/Value Assessment of Bibliographic Control](https://web.archive.org/web/20160804063754/http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf) defines the value of metadata as:
@@ -71,9 +71,9 @@ The report found that describing the cost of metadata is extremely difficult, es
 
 The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There?”](http://digital.library.unt.edu/ark:/67531/metadc725793/) describes the use of web traffic for metadata analysis. The percentage of successful searches that included terms from an item’s descriptive metadata vs. the percentage of successful searches that included terms from the full text of an item was analyzed to determine how often descriptive metadata contributed to the discovery of an item.
 
-<h3>ALCTS/LITA Metadata Standards</h3>
+<h3>ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)[now ALA CORE] Metadata Standards</h3>
 
-This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring. The [final draft of the "Principles for Evaluating Metadata Standards,"](https://web.archive.org/web/20180915041307/http://metaware.buzz/2016/08/04/principles-for-evaluating-metadata-standards/) which was not evaluated as part of the 2016 Environmental Scan, was added to this page in 2020.
+This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM (libraries, archives and museums) organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring. The [final draft of the "Principles for Evaluating Metadata Standards,"](https://web.archive.org/web/20180915041307/http://metaware.buzz/2016/08/04/principles-for-evaluating-metadata-standards/) which was not evaluated as part of the 2016 Environmental Scan, was added to this page in 2020.
 
 <a href="#top">Return to top</a>
 
@@ -130,7 +130,7 @@ Presentations reviewed during the 2016 environmental scan are organized below in
 
 <p>A case study at the University of Utah of metadata cleanup approaches, including OpenRefine, as applied to controlled vocabulary.</p>
 
-<h4>LITA Forum</h4>
+<h4>ALA LITA(American Library Association Library Information Technology Association)[now ALA CORE] Forum</h4>
 
 <p><em>Data Remediation: A View from the Trenches</em><br/>Harlow, Christina; Wilson. Heather<br/><a href="https://goo.gl/MFZP1t">Slides &amp; Resources</a></p>
 
@@ -243,7 +243,7 @@ The documentation presents general information about each tool, such as its purp
 | Type | Type of tool assessed | programming language or library, stand-alone script, tool, tools package, dataset, computing framework |
 | URL | General URL for tool or tool information | URL |
 | Abstract | Brief summary of the tool, its significant characteristics and relevant considerations | Free text |
-| Other | Additional notes field. |Free text |
+| Other | Additional notes field |Free text |
 | Tool Creator/Maintainer | Individual or organization responsible for tool creation and/or maintenance | Free text |
 | Source code / download URL | Destination for source code or download | URL |
 | Documentation | Destination for tool documentation | URL |
@@ -292,9 +292,9 @@ The tools we reviewed also reflect the variety of work associated with metadata 
 
 This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
-ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
+ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)[now ALA CORE] Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
 <br><br>
-ALCTS/LITA Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)
+ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)[now ALA CORE] Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)
 <br><br>
 Alemneh, Daniel Gelaw. Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There? 2015-09-30. [http://digital.library.unt.edu/ark:/67531/metadc725793/](http://digital.library.unt.edu/ark:/67531/metadc725793/)
 <br><br>
@@ -336,7 +336,7 @@ Europeana. Task Force on Enrichment and Evaluation’s Final Report. 2015-10-29.
 <br><br>
 Fischer, K. S. (2005). Critical Views of LCSH, 1990–2001: The Third Bibliographic Essay. Cataloging & Classification Quarterly, 41(1), 63–109. [https://doi.org/10.1300/J104v41n01_05](https://doi.org/10.1300/J104v41n01_05)
 <br><br>
-Glendon, Ivy. We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library. (slides presented at the ALCTS Metadata Interest Group Meeting at 2015 ALA Annual Conference) 2015. [http://connect.ala.org/node/243993](http://connect.ala.org/node/243993)
+Glendon, Ivy. We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library. (slides presented at the ALA ALCTS (American Library Association Association for Library Collection & Technical Services)[now ALA CORE] Metadata Interest Group Meeting at 2015 ALA Annual Conference) 2015. [http://connect.ala.org/node/243993](http://connect.ala.org/node/243993)
 <br><br>
 Google Analytics, [https://analytics.google.com/](https://analytics.google.com/)
 <br><br>
@@ -346,7 +346,7 @@ Guinchard, C. (2006). Dublin Core use in libraries: a survey. OCLC Systems & Ser
 <br><br>
 Hadoop, [https://hadoop.apache.org/](https://hadoop.apache.org/)
 <br><br>
-Harlow, Christina and Wilson, Heather. Data Remediation: A View from the Trenches. (slides and resources from the 2015 LITA forum) 2015. [https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k](https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k)
+Harlow, Christina and Wilson, Heather. Data Remediation: A View from the Trenches. (slides and resources from the 2015 ALA LITA(American Library Association Library Information Technology Association)[now ALA CORE] forum) 2015. [https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k](https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k)
 <br><br>
 Harlow, Christina. Get Your Recon (slides from Code4Lib 2016). 2016. [http://2016.code4lib.org/Get-Your-Recon](http://2016.code4lib.org/Get-Your-Recon)
 <br><br>
