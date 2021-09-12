@@ -1,7 +1,7 @@
 ---
 title: Publications and Presentations of Note
 layout: page
-permalink: Publications
+permalink: publications
 ---
    {::options parse_block_html="true" /}
 

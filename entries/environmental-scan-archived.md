@@ -1,7 +1,7 @@
 ---
 title: Archived Environmental Scan
 layout: page
-permalink: archived-environmental-scan
+permalink: environmental-scan-archived
 ---
    {::options parse_block_html="true" /}
 

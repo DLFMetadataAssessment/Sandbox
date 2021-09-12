@@ -1,7 +1,7 @@
 ---
 title: Current Projects
 layout: page
-permalink: ProjectCurrent
+permalink: projects-current
 ---
    {::options parse_block_html="true" /}
 

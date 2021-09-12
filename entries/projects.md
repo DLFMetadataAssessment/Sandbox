@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: page
-permalink: Projects
+permalink: projects
 ---
 {::options parse_block_html="true" /}
 

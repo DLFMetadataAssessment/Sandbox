@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: page
-permalink: Tools
+permalink: tools
 ---
    {::options parse_block_html="true" /}
 

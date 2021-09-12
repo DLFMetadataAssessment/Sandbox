@@ -1,7 +1,7 @@
 ---
 title: Metadata Analysis Workshop
 layout: page
-permalink: MetadataWorkshop
+permalink: metadata-workshop
 ---
 
 {::options parse_block_html="true" /}

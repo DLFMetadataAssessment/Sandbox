@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: page
-permalink: Resources
+permalink: resources
 ---
 {::options parse_block_html="true" /}
 <ul>
