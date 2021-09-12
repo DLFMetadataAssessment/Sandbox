@@ -5,7 +5,7 @@ permalink: Framework
 ---
    {::options parse_block_html="true" /}
    
-   <a href="/Projects">projects</a>->Metadata Assessment Framework and Guidance
+   <a href="/projects">projects</a>->Metadata Assessment Framework and Guidance
    
    <ul>
 	<li><a href="#Metadata_metrics">Metadata metrics</a></li>
@@ -104,7 +104,7 @@ permalink: Framework
    <h3 id="Select_the_right_tools">Select the right tools</h3>
    When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools.  
 
-   The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/34tools.html">Tools section of the Environmental Scan</a>, along with a link to a <a href="http://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit">detailed documentation</a> listing each tool with a brief descriptions of its scope and purpose. (<a href="http://dlfmetadataassessment.github.io/Tools/">Tools</a> assessment is an ongoing area of work.)
+   The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/34tools.html">Tools section of the Environmental Scan</a>, along with a link to a <a href="http://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit">detailed documentation</a> listing each tool with a brief descriptions of its scope and purpose. (<a href="http://dlfmetadataassessment.github.io/tools/">Tools</a> assessment is an ongoing area of work.)
 
    As you review potential tools, revisit the factors that helped determine your assessment approach. Also, consider how you will be getting your data—different tools may be suitable depending on how you can export/transform it. When evaluating possible tools, think about the tools or methodologies you are already familiar with and how much time you might have to learn a new software program or acquire a new skill. Metadata assessment is a good opportunity to begin learning some code, or expand your coding experience.
 

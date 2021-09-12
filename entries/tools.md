@@ -5,7 +5,7 @@ permalink: Tools
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Projects">projects</a>->Tools
+<a href="/projects">projects</a>->tools
 
 <p>The DLF Assessment Interest Group Metadata Working Group (DLF AIG MWG) collects  information about--and enhances access to--various metadata assessment tools to support professionals who analyze, collect, create, enhance, manipulate, and/or validate various kinds of metadata.</p> 
 

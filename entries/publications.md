@@ -6,7 +6,7 @@ permalink: Publications
    {::options parse_block_html="true" /}
 
 
-This work began in 2016 and was originally published as part of an *Environmental Scan of Metadadata Assessement* ([Archived](assets/DLFMetadataAssessmentWorkingGroup2016.pdf)). We continue to actively collect citations of interest in the [Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates. This group intends to periodically review the citations for additions to the Publications and Presentations sections below.
+This work began in 2016 and was originally published as part of an *Environmental Scan of Metadadata Assessement* ([Archived](assets/2016-dlf-mawg-site.pdf)). We continue to actively collect citations of interest in the [Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates. This group intends to periodically review the citations for additions to the Publications and Presentations sections below.
 
 <h3>Summary</h3>
 
