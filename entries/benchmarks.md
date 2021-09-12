@@ -2,7 +2,7 @@
 sectionid: benchmarks
 layout: page
 title: Metadata Quality Benchmarks
-permalink: MetadataBenchmarks
+permalink: benchmarks
 ---
 
 {::options parse_block_html="true" /}

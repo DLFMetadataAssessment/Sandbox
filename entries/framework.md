@@ -1,7 +1,7 @@
 ---
 title: Metadata Assessment Framework and Guidance
 layout: page
-permalink: Framework
+permalink: framework
 ---
    {::options parse_block_html="true" /}
    

@@ -1,7 +1,7 @@
 ---
 title: Archived Projects
 layout: page
-permalink: ArchivedProjects
+permalink: projects-archived
 ---
    {::options parse_block_html="true" /}
 

@@ -1,7 +1,7 @@
 ---
 title: Environmental Scan
 layout: page
-permalink: EnvironmentalScan
+permalink: environmental-scan
 ---
    {::options parse_block_html="true" /}
 
