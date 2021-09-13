@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: About
 ---
 {::options parse_block_html="true" /}
 
