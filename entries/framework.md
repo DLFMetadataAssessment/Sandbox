@@ -19,7 +19,7 @@ permalink: framework
    <h3 id="Metadata_metrics">Metadata metrics</h3>
 
    <h4>Determine what metadata quality means to you</h4>
-   Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of <a href="Sandbox/publications">recommended publications</a> for further investigation.
+   Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of <a href="/Sandbox/publications">recommended publications</a> for further investigation.
 
 
    <h4>Sample metrics for common metadata quality criteria</h4>
