@@ -7,7 +7,7 @@ permalink: benchmarks
 
 {::options parse_block_html="true" /}
 
-<a href="/projects">projects</a>->Metadata Quality Benchmarks
+<a href="/Sandbox/projects">Projects</a>->Metadata Quality Benchmarks
 
 This site is dedicated to the study of benchmarks in metadata quality. As a part of the [Digital Library Federation Forum, Assessment Interest Group, Metadata Working Group](https://wiki.diglib.org/Assessment), the Metadata Quality Benchmarks subgroup formed in early 2018.
 
