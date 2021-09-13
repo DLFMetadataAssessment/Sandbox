@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skillbuilding Resources
-permalink: skillbuilding
+permalink: Skillbuilding
 ---
 {::options parse_block_html="true" /}
 

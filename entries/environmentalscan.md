@@ -1,11 +1,11 @@
 ---
 title: Environmental Scan
 layout: page
-permalink: environmental-scan
+permalink: EnvironmentalScan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Sandbox/projects">Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
+<a href="/Projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
@@ -13,7 +13,7 @@ permalink: environmental-scan
 
 <p>This was the first area of work for the DLF Metadata Assessment group in 2016. We performed a review of literature, tools, presentations, and organizations on the topics of metadata assessment and metadata quality with a focus on—but not limited to—digital repositories descriptive metadata.</p>
 
-<p><a href="../assets/2016-dlf-mawg-site.pdf">Download a version of this resource as a PDF</a> (static snapshot from fall 2016)</p>
+<p><a href="../assets/DLFMetadataAssessmentWorkingGroup2016.pdf">Download a version of this resource as a PDF</a> (static snapshot from fall 2016)</p>
 
 <p><a href="https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit">Early draft and notes for the Environmental Scan</a> (not actively maintained)</p>
 
@@ -280,11 +280,11 @@ The documentation presents general information about each tool, such as its purp
 
 The following charts are snapshots from August 2016. The first chart provides a quick overview of the types of tools selected for review. Many are standalone tools or programming languages; others are tools packages, standalone scripts, or computing frameworks.
 
-<img src="/img/tools-selected.png"/>
+<img src="/img/toolsselected.png"/>
 
 The tools we reviewed also reflect the variety of work associated with metadata assessment. Many are designed to help with assessment across large datasets, while others reflect the work of sharing and testing, statistical computing, or data visualization.
 
-<img src="/img/tools-designed.png"/>
+<img src="/img/toolsdesigned.png"/>
 
 <a href="#top">Return to top</a>
 
