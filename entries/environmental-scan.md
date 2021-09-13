@@ -5,7 +5,7 @@ permalink: environmental-scan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/projects">projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
+<a href="/Sandbox/projects">Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
@@ -280,11 +280,11 @@ The documentation presents general information about each tool, such as its purp
 
 The following charts are snapshots from August 2016. The first chart provides a quick overview of the types of tools selected for review. Many are standalone tools or programming languages; others are tools packages, standalone scripts, or computing frameworks.
 
-<img src="/img/toolsselected.png"/>
+<img src="/img/tools-selected.png"/>
 
 The tools we reviewed also reflect the variety of work associated with metadata assessment. Many are designed to help with assessment across large datasets, while others reflect the work of sharing and testing, statistical computing, or data visualization.
 
-<img src="/img/toolsdesigned.png"/>
+<img src="/img/tools-designed.png"/>
 
 <a href="#top">Return to top</a>
 
