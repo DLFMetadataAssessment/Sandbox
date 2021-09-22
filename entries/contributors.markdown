@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors
-permalink: contributors
+permalink: Contributors
 ---
 {::options parse_block_html="true" /}
 
