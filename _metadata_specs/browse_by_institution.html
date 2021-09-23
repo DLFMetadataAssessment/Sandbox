@@ -1,0 +1,15 @@
+---
+layout: default
+title: Metadata Specs - Browse by Institution
+---
+
+<h1>Metadata Specs: Browse by Institution</h1>
+
+<ul>
+    {% for institution in site.institutions %}
+        <li>
+            <h2><a href="{{ institution.url }}">{{ institution.name }}</a></h2>
+            <p>{{ institution.description | markdownify }}</p>
+        </li>
+    {% endfor %}
+</ul>
