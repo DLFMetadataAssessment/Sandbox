@@ -2,7 +2,7 @@
 title: Carnegie Hall Digital Collections Metadata Application Profile
 year: 2018
 version: Initial Release
-kind: pdf
+kind: PDF
 lang: EN
 date_added: 20180601
 asset_location: https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/carnegie-hall.pdf

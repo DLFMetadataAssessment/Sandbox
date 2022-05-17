@@ -1,8 +1,8 @@
 ---
 title: South Carolina Digital Library Metadata Schema & Guidelines
 year: 2016
-version: Revised
-kind: 1.1
+version: 1.1
+kind: PDF
 lang: EN
 date_added: 20180125
 asset_location: https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/SCDLMetadataSchema_2016.pdf
