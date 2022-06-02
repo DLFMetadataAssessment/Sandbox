@@ -28,6 +28,7 @@ Gemfile,
 Gemfile.lock
 ]
 defaults:
+  -
     scope:
       path: ""
     values:
