@@ -1,5 +1,5 @@
 ---
-title: CONTENTdm Cookbook: Recipes for metadata entry for UofL Digital Initiatives
+title: "CONTENTdm Cookbook: Recipes for metadata entry for UofL Digital Initiatives"
 year: 2015
 version: 1.0
 kind: PDF
