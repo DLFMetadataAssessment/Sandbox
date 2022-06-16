@@ -6,7 +6,7 @@ kind: pdf
 lang: EN
 date_added: 20180501
 asset_location: https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/blob/master/assets/data/DLSD_Metadata_Guidelines_Version_1.1.pdf
-type: best-practice
+type: best-practices
 institution: dlsd
 description: "Digital Library of South Dakota Metadata Guidelines provides a best practice outline for the creation of metadata records for digital resources for inclusion in Digital Library South Dakota (DLSD)."
 ---
