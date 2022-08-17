@@ -8,7 +8,7 @@ This is the Github repository for the DLF AIG Metadata Working Group’s develop
 
 Because changes made to this repository only impact the **development website**, this repository is used to test potential changes to the working group’s production website before they are implemented there. This development website was created due to the breaking nature of some requested changes in 2017. It was created, and is maintained, by members of the DLF AIG Metadata Working Group.
 
-If you would like to contribute to the sandbox, you will need to install Git, Ruby (as well as relevant associated software such as Bundler), Jekyll, and a source code editor of your choosing, such as Notepad++ or Atom. You will also need to create a GitHub account if you do not already have one, as well as join the [DLFMetadataAssessment](https://github.com/DLFMetadataAssessment) GitHub Organization. 
+If you would like to contribute to the sandbox, you will need to install Git, Ruby (as well as relevant associated software such as Bundler), Jekyll, and a source code editor of your choosing, such as Notepad++ or Atom. You will also need to create a GitHub account if you do not already have one, as well as join the [DLFMetadataAssessment](https://github.com/DLFMetadataAssessment) GitHub Organization. For more information, please consult our [documentation website](https://dlfmetadataassessment.github.io/WebsiteDocumentation/).
 
 If you are interested in joining our GitHub Organization and contributing changes, please navigate to [our wiki](https://wiki.diglib.org/Assessment:Metadata) for additional information and to get involved!
 
