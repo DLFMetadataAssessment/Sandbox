@@ -10,7 +10,7 @@ permalink: projects-archived
 <h1 id="top">Archived Projects</h1>
 
 
-* An [<b>environmental scan</b>](/Sandbox/environmental-scan) of metadata assessment and metadata quality literature, tools, presentations, and organizations (originally undertaken in 2016)].
+* An [<b>environmental scan</b>](/Sandbox/environmental-scan) of metadata assessment and metadata quality literature, tools, presentations, and organizations (originally undertaken in 2016).
 * A [<b>framework</b>](/Sandbox/framework) for assessing descriptive metadata in digital collections (undertaken in 2017).
 * A [<b>survey</b>](/Sandbox/benchmarks) of metadata assessment and metadata quality practices among various libraries, archives, and museums.
-* A [<b>Metadata Analysis Workshop</b>](/Sandbox/metadata-workshop) designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018.
+* A [<b>Metadata Analysis Workshop</b>](/Sandbox/metadata-workshop) designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018).
