@@ -5,7 +5,7 @@ permalink: environmental-scan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Sandbox/projects">Projects</a>-><a href="/Sandbox/projects-archived">Archived Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
+<a href="/Sandbox/projects">Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
@@ -110,7 +110,7 @@ Presentations reviewed during the 2016 environmental scan are organized below in
 
 <h4>DCMI</h4>
 
-<p><em>Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston</em><br/>Weidner, Andrew; Wu, Annie.<br/><a href="http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339">Slides &amp; Paper</a></p>
+<p><em>Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston</em><br/>Weidner, Andrew; Wu, Annie.<br/><a href="https://web.archive.org/web/20210727142021/https://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339">Slides &amp; Paper</a></p>
 
 <p>This is a report on a migration project that resulted in the development of scripts to create reports on existing metadata used to identify problems and allow for cleanup and preparation for the metadata to be published as linked data.</p>
 
@@ -148,7 +148,7 @@ Presentations reviewed during the 2016 environmental scan are organized below in
 
 <p><em>Measuring Your Metadata Preconference at Code4Lib 2016</em><br/>Averkamp, Shawn; Miller, Matt; Rubinow, Sara; &amp; Hadro, Josh.<br/><a href="https://web.archive.org/web/20160423172155/https://2016.code4lib.org/workshops/Measuring-Your-Metadata">Information on workshop</a></p>
 
-<p>This was a hands-on workshop that explored visualization and analysis of metadata using Python and d3. The workshop notes point to <a href="https://docs.google.com/document/d/1MGwRcnYZMIpJhuFGgqnJPN06HCvsOwJPnmE-i1NC1Qg/edit">other helpful resources.</a> An outline of the workshop can be found <a href="https://github.com/saverkamp/measure-metadata-workshop">here.</a></p>
+<p>This was a hands-on workshop that explored visualization and analysis of metadata using Python and d3. The workshop notes point to other helpful resources. An outline of the workshop can be found <a href="https://github.com/saverkamp/measure-metadata-workshop">here.</a></p>
 
 <p><em>Get Your Recon</em><br/>Harlow, Christina<br/><a href="http://2016.code4lib.org/Get-Your-Recon">Slides</a></p>
 
@@ -322,7 +322,7 @@ DPLA Aggregation tools, [https://github.com/ncdhc/dpla-aggregation-tools](https:
 <br><br>
 Dublin Core Metadata Initiative. (2014). DCMI Task Group RDF Application Profiles. [https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF_Application_Profiles](https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF_Application_Profiles)
 <br><br>
-Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [http://dcpapers.dublincore.org/pubs/article/view/744](http://dcpapers.dublincore.org/pubs/article/view/744)
+Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [http://dcpapers.dublincore.org/pubs/article/view/744](https://web.archive.org/web/20160726124542/http://dcpapers.dublincore.org/pubs/article/view/744)
 <br><br>
 eCommons Metadata, [https://github.com/cmh2166/eCommonsMetadata](https://github.com/cmh2166/eCommonsMetadata)
 <br><br>
@@ -378,7 +378,7 @@ Loshin, D. (2013). Building a Data Quality Scorecard for Operational Data Govern
 <br><br>
 Ma, S., Lu, C., Lin, X., & Galloway, M. (2009). Evaluating the metadata quality of the IPL. Proceedings of the American Society for Information Science and Technology, 46(1), 1–17. [https://doi.org/10.1002/meet.2009.1450460249](https://doi.org/10.1002/meet.2009.145046024)
 <br><br>
-Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008). A Conceptual Framework for Metadata Quality Assessment. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Berlin, Germany. Retrieved from [http://dcpapers.dublincore.org/pubs/article/view/923](http://dcpapers.dublincore.org/pubs/article/view/923)
+Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008). A Conceptual Framework for Metadata Quality Assessment. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Berlin, Germany. Retrieved from [http://dcpapers.dublincore.org/pubs/article/view/923](https://web.archive.org/web/20160818133939/http://dcpapers.dublincore.org/pubs/article/view/923)
 <br><br>
 Metadata Breakers, [https://github.com/vphill/metadata_breakers](https://github.com/vphill/metadata_breakers)
 <br><br>
@@ -424,7 +424,7 @@ UNT Libraries Metadata Edit Dataset, [http://digital.library.unt.edu/ark:/67531/
 <br><br>
 Ward, J. H. (2002, November). A Quantitative Analysis of Dublin Core Metadata Element Set (DCMES) Usage in Data Providers Registered with the Open Archives Initiative (OAI) (Master’s paper). School of Information and Library Science of the University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA. Retrieved from [http://ils.unc.edu/MSpapers/2816.pdf](http://ils.unc.edu/MSpapers/2816.pdf)
 <br><br>
-Weidner, Andrew and Wu, Annie. Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston. (presentation from DCMI Global Meetings and Conferences, DC-2015) 2015. [http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339](http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)
+Weidner, Andrew and Wu, Annie. Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston. (presentation from DCMI Global Meetings and Conferences, DC-2015) 2015. [http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339](https://web.archive.org/web/20210727142021/https://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)
 <br><br>
 Zavalina, O. L. (2014). Complementarity in Subject Metadata in Large-Scale Digital Libraries: A Comparative Analysis. Cataloging & Classification Quarterly, 52(1), 77–89.
 <br><br>
