@@ -5,7 +5,7 @@ permalink: framework
 ---
    {::options parse_block_html="true" /}
    
-   <a href="/Sandbox/projects">Projects</a>->Metadata Assessment Framework and Guidance
+   <a href="/Sandbox/projects">Projects</a>-><a href="/Sandbox/projects-archived">Archived Projects</a>->Metadata Assessment Framework and Guidance
    
    <ul>
 	<li><a href="#Metadata_metrics">Metadata metrics</a></li>
