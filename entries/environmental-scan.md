@@ -5,7 +5,7 @@ permalink: environmental-scan
 ---
    {::options parse_block_html="true" /}
 
-<a href="/Sandbox/projects">Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
+<a href="/Sandbox/projects">Projects</a>-><a href="/Sandbox/projects-archived">Archived Projects</a>->DLF AIG MWG Metadata Assessment Toolkit: Environmental Scan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment: Toolkit Environmental Scan</h1>
 
