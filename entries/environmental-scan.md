@@ -49,7 +49,7 @@ _Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.
 
 Although very little directly related to metadata assessment is available from the SAA, the 2010 presentation by Joyce Celeste Chapman, [“User Feedback and Cost/Value Analysis of Metadata Creation”](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf) contains many findings that merit consideration. This project studied the information seeking behavior of researchers and regarded successful searches as indicative of the value of metadata. The fields used most often by researchers were identified and the time needed to create metadata for those fields was analyzed in order to determine if the time spent creating metadata was related to the frequency of researcher use.
 
-<h3>ALA ALCTS (American Library Association Association for Library Collection & Technical Services)[now ALA CORE] "Big Heads"</h3>
+<h3>ALA ALCTS (American Library Association Association for Library Collection & Technical Services) [now ALA CORE] "Big Heads"</h3>
 *(i.e. "ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)")*
 
 The [Final Report of the Task Force on Cost/Value Assessment of Bibliographic Control](https://web.archive.org/web/20160804063754/http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf) defines the value of metadata as:
