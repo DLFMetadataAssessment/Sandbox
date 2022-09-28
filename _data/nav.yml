@@ -14,7 +14,6 @@ tree:
         archived: true
       - title: Metadata Quality Benchmarks
         url: /projects/benchmarks/
-        archived: true
       - title: Metadata Analysis Workshop
         url: /projects/metadata-workshop/
         archived: true
