@@ -40,7 +40,7 @@ _Update: In 2017 the Hydra Project’s name was changed to [Samvera](https://wik
 
 Although very little directly related to metadata assessment is available from the SAA, the 2010 presentation by Joyce Celeste Chapman, [“User Feedback and Cost/Value Analysis of Metadata Creation”](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf) contains many findings that merit consideration. This project studied the information seeking behavior of researchers and regarded successful searches as indicative of the value of metadata. The fields used most often by researchers were identified and the time needed to create metadata for those fields was analyzed in order to determine if the time spent creating metadata was related to the frequency of researcher use.
 
-### ALA ALCTS (American Library Association Association for Library Collection & Technical Services)\[now ALA CORE\] “Big Heads”
+### ALA ALCTS (American Library Association Association for Library Collection & Technical Services) \[now ALA CORE\] “Big Heads”
 
 _(i.e. “ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)”)_
 
@@ -64,7 +64,7 @@ _(i.e. “US Electronic Thesis and Dissertation Association”)_
 
 The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There?”](http://digital.library.unt.edu/ark:/67531/metadc725793/) describes the use of web traffic for metadata analysis. The percentage of successful searches that included terms from an item’s descriptive metadata vs. the percentage of successful searches that included terms from the full text of an item was analyzed to determine how often descriptive metadata contributed to the discovery of an item.
 
-### ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)\[now ALA CORE\] Metadata Standards
+### ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA (American Library Association Library Information Technology Association) \[now ALA CORE\] Metadata Standards
 
 This joint committee has recently drafted [“Principles for Evaluating Metadata Standards”](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the “development, maintenance, governance, selection, use, and assessment of metadata standards” by LAM (libraries, archives and museums) organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring. The [final draft of the “Principles for Evaluating Metadata Standards,”](https://web.archive.org/web/20180915041307/http://metaware.buzz/2016/08/04/principles-for-evaluating-metadata-standards/) which was not evaluated as part of the 2016 Environmental Scan, was added to this page in 2020.
 
@@ -115,7 +115,7 @@ A look at the background and results of a reorganization of metadata work at the
 
 _Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston_  
 Weidner, Andrew; Wu, Annie.  
-[Slides & Paper](http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)
+[Slides & Paper](https://web.archive.org/web/20210727142021/https://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)
 
 This is a report on a migration project that resulted in the development of scripts to create reports on existing metadata used to identify problems and allow for cleanup and preparation for the metadata to be published as linked data.
 
@@ -167,7 +167,7 @@ _Measuring Your Metadata Preconference at Code4Lib 2016_
 Averkamp, Shawn; Miller, Matt; Rubinow, Sara; & Hadro, Josh.  
 [Information on workshop](https://web.archive.org/web/20160423172155/https://2016.code4lib.org/workshops/Measuring-Your-Metadata)
 
-This was a hands-on workshop that explored visualization and analysis of metadata using Python and d3. The workshop notes point to [other helpful resources.](https://docs.google.com/document/d/1MGwRcnYZMIpJhuFGgqnJPN06HCvsOwJPnmE-i1NC1Qg/edit) An outline of the workshop can be found [here.](https://github.com/saverkamp/measure-metadata-workshop)
+This was a hands-on workshop that explored visualization and analysis of metadata using Python and d3. The workshop notes point to other helpful resources. An outline of the workshop can be found [here.](https://github.com/saverkamp/measure-metadata-workshop)
 
 _Get Your Recon_  
 Harlow, Christina  
@@ -312,9 +312,9 @@ Citations
 
 This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
-ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)\[now ALA CORE\] Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)  
+ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association) \[now ALA CORE\] Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)  
   
-ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association)\[now ALA CORE\] Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)  
+ALA ALCTS (American Library Association Association for Library Collection & Technical Services)/ALA LITA(American Library Association Library Information Technology Association) \[now ALA CORE\] Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)  
   
 Alemneh, Daniel Gelaw. Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There? 2015-09-30. [http://digital.library.unt.edu/ark:/67531/metadc725793/](http://digital.library.unt.edu/ark:/67531/metadc725793/)  
   
@@ -342,7 +342,7 @@ DPLA Aggregation tools, [https://github.com/ncdhc/dpla-aggregation-tools](https:
   
 Dublin Core Metadata Initiative. (2014). DCMI Task Group RDF Application Profiles. [https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF\_Application\_Profiles](https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF_Application_Profiles)  
   
-Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [http://dcpapers.dublincore.org/pubs/article/view/744](http://dcpapers.dublincore.org/pubs/article/view/744)  
+Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [https://web.archive.org/web/20160726124542/http://dcpapers.dublincore.org/pubs/article/view/744](https://web.archive.org/web/20160726124542/http://dcpapers.dublincore.org/pubs/article/view/744)  
   
 eCommons Metadata, [https://github.com/cmh2166/eCommonsMetadata](https://github.com/cmh2166/eCommonsMetadata)  
   
@@ -356,7 +356,7 @@ Europeana. Task Force on Enrichment and Evaluation’s Final Report. 2015-10-29.
   
 Fischer, K. S. (2005). Critical Views of LCSH, 1990–2001: The Third Bibliographic Essay. Cataloging & Classification Quarterly, 41(1), 63–109. [https://doi.org/10.1300/J104v41n01\_05](https://doi.org/10.1300/J104v41n01_05)  
   
-Glendon, Ivy. We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library. (slides presented at the ALA ALCTS (American Library Association Association for Library Collection & Technical Services)\[now ALA CORE\] Metadata Interest Group Meeting at 2015 ALA Annual Conference) 2015. [http://connect.ala.org/node/243993](http://connect.ala.org/node/243993)  
+Glendon, Ivy. We’ve Gone MAD: Launching a Metadata Analysis & Design Unit at the University of Virginia Library. (slides presented at the ALA ALCTS (American Library Association Association for Library Collection & Technical Services) \[now ALA CORE\] Metadata Interest Group Meeting at 2015 ALA Annual Conference) 2015. [http://connect.ala.org/node/243993](http://connect.ala.org/node/243993)  
   
 Google Analytics, [https://analytics.google.com/](https://analytics.google.com/)  
   
@@ -366,7 +366,7 @@ Guinchard, C. (2006). Dublin Core use in libraries: a survey. OCLC Systems & Ser
   
 Hadoop, [https://hadoop.apache.org/](https://hadoop.apache.org/)  
   
-Harlow, Christina and Wilson, Heather. Data Remediation: A View from the Trenches. (slides and resources from the 2015 ALA LITA(American Library Association Library Information Technology Association)\[now ALA CORE\] forum) 2015. [https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k](https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k)  
+Harlow, Christina and Wilson, Heather. Data Remediation: A View from the Trenches. (slides and resources from the 2015 ALA LITA(American Library Association Library Information Technology Association) \[now ALA CORE\] forum) 2015. [https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k](https://drive.google.com/drive/folders/0ByxEB0pyAt5WOHZrOVJCVXc2X1k)  
   
 Harlow, Christina. Get Your Recon (slides from Code4Lib 2016). 2016. [http://2016.code4lib.org/Get-Your-Recon](http://2016.code4lib.org/Get-Your-Recon)  
   
@@ -398,7 +398,7 @@ Loshin, D. (2013). Building a Data Quality Scorecard for Operational Data Govern
   
 Ma, S., Lu, C., Lin, X., & Galloway, M. (2009). Evaluating the metadata quality of the IPL. Proceedings of the American Society for Information Science and Technology, 46(1), 1–17. [https://doi.org/10.1002/meet.2009.1450460249](https://doi.org/10.1002/meet.2009.145046024)  
   
-Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008). A Conceptual Framework for Metadata Quality Assessment. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Berlin, Germany. Retrieved from [http://dcpapers.dublincore.org/pubs/article/view/923](http://dcpapers.dublincore.org/pubs/article/view/923)  
+Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008). A Conceptual Framework for Metadata Quality Assessment. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Berlin, Germany. Retrieved from [https://web.archive.org/web/20160818133939/http://dcpapers.dublincore.org/pubs/article/view/923](https://web.archive.org/web/20160818133939/http://dcpapers.dublincore.org/pubs/article/view/923)  
   
 Metadata Breakers, [https://github.com/vphill/metadata\_breakers](https://github.com/vphill/metadata_breakers)  
   
@@ -444,7 +444,7 @@ UNT Libraries Metadata Edit Dataset, [http://digital.library.unt.edu/ark:/67531/
   
 Ward, J. H. (2002, November). A Quantitative Analysis of Dublin Core Metadata Element Set (DCMES) Usage in Data Providers Registered with the Open Archives Initiative (OAI) (Master’s paper). School of Information and Library Science of the University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA. Retrieved from [http://ils.unc.edu/MSpapers/2816.pdf](http://ils.unc.edu/MSpapers/2816.pdf)  
   
-Weidner, Andrew and Wu, Annie. Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston. (presentation from DCMI Global Meetings and Conferences, DC-2015) 2015. [http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339](http://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)  
+Weidner, Andrew and Wu, Annie. Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston. (presentation from DCMI Global Meetings and Conferences, DC-2015) 2015. [https://web.archive.org/web/20210727142021/https://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339](https://web.archive.org/web/20210727142021/https://dcevents.dublincore.org/IntConf/dc-2015/paper/view/339)  
   
 Zavalina, O. L. (2014). Complementarity in Subject Metadata in Large-Scale Digital Libraries: A Comparative Analysis. Cataloging & Classification Quarterly, 52(1), 77–89.  
   
