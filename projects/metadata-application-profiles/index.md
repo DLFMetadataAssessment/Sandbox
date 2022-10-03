@@ -1,5 +1,26 @@
 ---
 title: Metadata Application Profiles
+redirect_from:
+  - /MetadataSpecsClearinghouse/
+  - /MetadataSpecsClearinghouse/about/
+  - /MetadataSpecsClearinghouse/carnegie-hall/
+  - /MetadataSpecsClearinghouse/dlsd/
+  - /MetadataSpecsClearinghouse/dpla/
+  - /MetadataSpecsClearinghouse/esdn/
+  - /MetadataSpecsClearinghouse/fhsu/
+  - /MetadataSpecsClearinghouse/idhh/
+  - /MetadataSpecsClearinghouse/louisville/
+  - /MetadataSpecsClearinghouse/msu/
+  - /MetadataSpecsClearinghouse/mwdl/
+  - /MetadataSpecsClearinghouse/nyarc/
+  - /MetadataSpecsClearinghouse/ocul/
+  - /MetadataSpecsClearinghouse/odn/
+  - /MetadataSpecsClearinghouse/padigital/
+  - /MetadataSpecsClearinghouse/rice-university/
+  - /MetadataSpecsClearinghouse/scdl/
+  - /MetadataSpecsClearinghouse/uic/
+  - /MetadataSpecsClearinghouse/university-of-houston/
+  - /MetadataSpecsClearinghouse/usu/
 bottom-of-page:
   - js-search.min.js
   - maps-search.js
