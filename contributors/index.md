@@ -5,7 +5,7 @@ title: Contributors
 Leadership
 ----------
 
-This is the list of contributors who lead working during 2022.
+This is the list of contributors who led the working group during 2022.
 
 *   Hannah Tarver (co-facilitator, Metadata Working Group; leader, Benchmarks)
 *   Rachel White (co-facilitator, Metadata Working Group)

@@ -15,26 +15,16 @@ As such, our efforts focus on how to measure, evaluate, and assess metadata as i
 
 We hope that this resource offers a way for fellow metadata professionals to perform their own assessment of metadata practices; understand the results; and–ultimately–decide on a path that both enhances metadata quality and leads to a better understanding of one’s collections.
 
-Organization
+Current efforts
 ------------
 
-The DLF Metadata Assessment Working Group consists of the following sub-groups:
+The 2022 DLF Metadata Assessment Working Group’s efforts focused on:
 
-*   Collaboration (with other AIG working groups).
-*   Environmental Scan.
-*   Metadata Quality Benchmarks.
-*   Tools.
-*   Website.
-
-Current Project Focus
----------------------
-
-The 2019 DLF Metadata Assessment Working Group’s efforts focused on:
-
-*   Updating the [Metadata Assessment Zotero Library](https://www.zotero.org/groups/488224/metadata_assessment?).
-*   Developing a survey about metadata assessment and metadata quality practices.
-*   Creating a preliminary metadata analysis tools repository.
-*   Updating the DLF Metadata Assessment Working Group’s website.
+*   [Publicizing information about the group and about metadata quality through blog posts and social media](https://www.diglib.org/category/assessment/)
+*   [Evaluating next steps for benchmarking based on survey data](/Sandbox/projects/benchmarks)
+*   Compiling a list of resources related to skill-building for metadata quality activities
+*   [Standardizing and maintaining a metadata analysis tools repository](/Sandbox/projects/tools)
+*   Updating the DLF Metadata Assessment Working Group’s website
 
 Prior Efforts
 -------------
@@ -47,15 +37,5 @@ Project Limitations
 This resource provides metadata professionals with a plain language, high-level resource for assessing descriptive metadata in digital collections.
 
 Due to the wide range of digital collections, users, and institutions, **this tool does not offer prescriptive recommendations for metadata**.
-
-Future Efforts
---------------
-
-As our research efforts continue, we hope to expand our efforts to include related topics like:
-
-*   Other kinds of metadata, such as structural, administrative, and technical metadata.
-*   Assessment of the utility and importance of metadata.
-*   The qualitative state of metadata currently used.
-*   Metadata beyond the digital repository.
 
 As a member of the DLF community, we abide by the [DLF Code of Conduct](https://www.diglib.org/about/code-of-conduct/).
