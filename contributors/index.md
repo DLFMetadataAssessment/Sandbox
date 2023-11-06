@@ -5,7 +5,7 @@ title: Contributors
 Leadership
 ----------
 
-This is the list of contributors who led the working group during 2022.
+This is the list of contributors who led the working group during 2023.
 
 *   Becky Fried (co-facilitator, Metadata Working Group)
 *   Hannah Tarver (co-facilitator, Metadata Working Group; leader, Benchmarks)
