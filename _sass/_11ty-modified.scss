@@ -20,6 +20,7 @@
 .elv-hed{margin-top:0.75em}
 
 .elv-toc-list li{font-size:inherit}
+.elv-toc-list li ul li{margin:10px 0px;line-height:1.1}
 
 .projects-list{display:flex;flex-wrap:wrap;gap:1em;margin:2em 0}
 .projects-list>*{flex-grow:1;flex-basis:12em}
