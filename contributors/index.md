@@ -156,7 +156,7 @@ This list of contributors was created based on the lists of people who attended 
 *   Jacob Shelby (2017-2020)
 *   Amber Sherman (2016)
 *   Nicole Shibata (2019)
-*   Lisa Shiota (2023-2024)
+*   Lisa Shiota (2023-2025)
 *   Laura Smart (2016-2018)
 *   Ayla Stein (2016-2017)
 *   Kathryn Stine (2016)
